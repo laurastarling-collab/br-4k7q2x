@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Germany monitor.
+"""Brazil monitor.
 
 Reads the Google Alerts feeds in feeds.txt, asks a Claude model to translate
 and score each new item against relevance.md, writes docs/index.html, and
@@ -40,11 +40,11 @@ MAX_TO_SCORE = 300  # per run, so a backlog cannot run up a large bill
 USER_AGENT = "Mozilla/5.0 (compatible; germany-monitor/1.0)"
 TRANSLATE = "https://translate.google.com/translate?sl=auto&tl=en&u="
 
-SYSTEM_PROMPT = """You triage German-language news items for an English-speaking policy analyst.
+SYSTEM_PROMPT = """You triage Brazil-language news items for an English-speaking policy analyst.
 
-For each item you receive a German title, a short snippet, and optionally article_text with more of the article body. Return a JSON array with one object per item, in the same order, with these keys:
+For each item you receive a Brazilian title, a short snippet, and optionally article_text with more of the article body. Return a JSON array with one object per item, in the same order, with these keys:
 - "id": the item's id, copied exactly
-- "headline_en": a faithful English translation of the title; keep German names of laws and bodies and add a short English gloss in brackets
+- "headline_en": a faithful English translation of the title; keep Brazilian names of laws and bodies and add a short English gloss in brackets
 - "summary_en": one sentence, at most 30 words, saying what the item reports; use article_text where available, otherwise use the title and snippet; add no facts not present in the provided text
 - "tag": one topic tag from the list in the analyst's criteria
 - "score": 3, 2, 1 or 0 according to the analyst's criteria, where 0 means "ignore entirely"
