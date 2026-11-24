@@ -1,4 +1,4 @@
-# Germany monitor
+# Brazil monitor
 
 Each morning this reads your Google Alerts feeds, has a Claude model translate
 and score each new German item against `relevance.md`, and rebuilds the
