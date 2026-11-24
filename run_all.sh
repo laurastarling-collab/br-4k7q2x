@@ -1,9 +1,9 @@
 #!/bin/bash
-# run_all.sh — daily orchestration for Germany monitors
+# run_all.sh — daily orchestration for brazil monitors
 set -uo pipefail
 
 PARENT="$(cd "$(dirname "$0")" && pwd)"
-DASHBOARD="$PARENT/germany-monitor"
+DASHBOARD="$PARENT/brazil-monitor"
 GOVDOCS="$PARENT/govdocs"
 LOGS="$PARENT/logs"
 LOG="$LOGS/$(date +%Y-%m-%d_%H%M).log"
@@ -20,7 +20,7 @@ else
   echo "  WARNING: ~/.govdocs_de.env not found — govdocs translate step will fail"
 fi
 
-echo "--- Pull germany-monitor ---"
+echo "--- Pull brazil-monitor ---"
 cd "$DASHBOARD"
 git pull && echo "  up to date" || echo "  git pull failed, continuing"
 
