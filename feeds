@@ -1,0 +1,5 @@
+cd ~/Downloads/germany-monitor
+open -e feeds.txt
+git add feeds.txt
+git commit -m "Add feeds"
+git push
