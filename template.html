@@ -875,7 +875,7 @@ li.news > .bk-star { flex: none; }
     if (i.alerts && i.alerts.length) meta.appendChild(node("span", "", "Alert: " + i.alerts.join(", ")));
     body.appendChild(meta);
 
-    // Fold-out with the German text, and the link to the untranslated page beside it.
+    // Fold-out with the Portuguese text, and the link to the untranslated page beside it.
     var more = node("div", "more");
     var orig = node("a", "", "Open original source");
     orig.href = i.url; orig.target = "_blank"; orig.rel = "noopener noreferrer";
@@ -887,7 +887,7 @@ li.news > .bk-star { flex: none; }
       if (folded) fold.appendChild(node("p", "en", i.summary_en));
       fold.appendChild(node("p", "", tidy(i.title_de, i.source)));
       if (i.snippet_de) fold.appendChild(node("p", "", i.snippet_de));
-      var btn = node("button", "", folded ? "English and German summary" : "German summary");
+      var btn = node("button", "", folded ? "English and Portuguese summary" : "Portuguese summary");
       btn.type = "button";
       btn.setAttribute("aria-expanded", "false");
       btn.addEventListener("click", function () {
@@ -963,7 +963,7 @@ li.news > .bk-star { flex: none; }
       var orig = node("a", "", "Open original source");
       orig.href = i.url; orig.target = "_blank"; orig.rel = "noopener noreferrer";
       orig.addEventListener("click", function () { markRead(i.id); });
-      var btn = node("button", "", "German summary");
+      var btn = node("button", "", "Portuguese summary");
       btn.type = "button";
       btn.setAttribute("aria-expanded", "false");
       btn.addEventListener("click", function () {
