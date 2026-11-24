@@ -6,7 +6,7 @@
 <meta name="robots" content="noindex, nofollow, noarchive">
 <meta name="referrer" content="no-referrer">
 <meta name="color-scheme" content="light">
-<title>Germany monitor</title>
+<title>Brazil monitor</title>
 <style>
 :root {
   color-scheme: light;
@@ -254,7 +254,7 @@ li.news > .bk-star { flex: none; }
 <body>
 <div class="page">
   <header class="masthead">
-    <h1>Germany monitor</h1>
+    <h1>brazil monitor</h1>
     <p id="status"></p>
   </header>
 
@@ -476,7 +476,7 @@ li.news > .bk-star { flex: none; }
   });
 
   // Which items have been opened, remembered in this browser.
-  var READ_KEY = "germany-monitor-read";
+  var READ_KEY = "brazil-monitor-read";
   var read = {};
   try {
     (JSON.parse(localStorage.getItem(READ_KEY)) || []).forEach(function (id) { read[id] = true; });
@@ -491,14 +491,14 @@ li.news > .bk-star { flex: none; }
   }
 
   // Bookmarks remembered in this browser.
-  var BKMK_KEY = "germany-monitor-bkmk";
+  var BKMK_KEY = "brazil-monitor-bkmk";
   var bookmarks = {};
   try {
     (JSON.parse(localStorage.getItem(BKMK_KEY)) || []).forEach(function (id) { bookmarks[id] = true; });
   } catch (e) {}
 
   // Govdocs bookmarks: {url: title}
-  var GD_BKMK_KEY = "germany-monitor-bkmk-gd";
+  var GD_BKMK_KEY = "brazil-monitor-bkmk-gd";
   var gdBookmarks = {};
   try {
     var gbs = JSON.parse(localStorage.getItem(GD_BKMK_KEY));
@@ -875,7 +875,7 @@ li.news > .bk-star { flex: none; }
     if (i.alerts && i.alerts.length) meta.appendChild(node("span", "", "Alert: " + i.alerts.join(", ")));
     body.appendChild(meta);
 
-    // Fold-out with the German text, and the link to the untranslated page beside it.
+    // Fold-out with the Portuguesetext, and the link to the untranslated page beside it.
     var more = node("div", "more");
     var orig = node("a", "", "Open original source");
     orig.href = i.url; orig.target = "_blank"; orig.rel = "noopener noreferrer";
@@ -887,7 +887,7 @@ li.news > .bk-star { flex: none; }
       if (folded) fold.appendChild(node("p", "en", i.summary_en));
       fold.appendChild(node("p", "", tidy(i.title_de, i.source)));
       if (i.snippet_de) fold.appendChild(node("p", "", i.snippet_de));
-      var btn = node("button", "", folded ? "English and German summary" : "German summary");
+      var btn = node("button", "", folded ? "English and Portuguese summary" : "Portuguese summary");
       btn.type = "button";
       btn.setAttribute("aria-expanded", "false");
       btn.addEventListener("click", function () {
@@ -963,7 +963,7 @@ li.news > .bk-star { flex: none; }
       var orig = node("a", "", "Open original source");
       orig.href = i.url; orig.target = "_blank"; orig.rel = "noopener noreferrer";
       orig.addEventListener("click", function () { markRead(i.id); });
-      var btn = node("button", "", "German summary");
+      var btn = node("button", "", "Portuguese summary");
       btn.type = "button";
       btn.setAttribute("aria-expanded", "false");
       btn.addEventListener("click", function () {
