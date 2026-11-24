@@ -1,7 +1,7 @@
-# Germany monitor
+# Brazil monitor
 
-A daily news dashboard for Rumtin Sepasspour (Global Shield). It reads Google
-Alerts RSS feeds on German civil defence and critical infrastructure policy,
+A daily news dashboard for Maria Laura (Global Shield). It reads Google
+Alerts RSS feeds on Brazil policy priorities,
 has a Claude model translate and score each item, and publishes one HTML page.
 
 ## How it runs
@@ -15,7 +15,7 @@ has a Claude model translate and score each item, and publishes one HTML page.
 4. Netlify watches the repo and publishes the `docs/` folder. GitHub Pages is
    not used (free plan, private repo).
 
-Repo: `rumtinsepasspour/gs-gm-xxx` (private). Local copy: `~/Desktop/germany-monitor`.
+Repo: `laurastarling-collab/br-4k7q2x` (private). Local copy: `~\Downloads\gs-brazil-xxx-main\gs-brazil-xxx-main`.
 
 ## Files
 
@@ -48,12 +48,12 @@ Each item is processed once. Changing a criteria file affects new items only.
 The workflow commits to the repo on every run, so always pull first.
 
 ```
-cd ~/Desktop/germany-monitor
+cd ~\Downloads\gs-brazil-xxx-main\gs-brazil-xxx-main
 git pull
 git add <changed files>
 git commit -m "<what changed>"
 git push
-gh workflow run daily.yml --repo rumtinsepasspour/gs-gm-xxx
+gh workflow run daily.yml --repo laurastarling-collab/br-4k7q2x
 ```
 
 The page only changes after a workflow run, because `docs/index.html` is
