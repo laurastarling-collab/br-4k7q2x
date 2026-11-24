@@ -6,7 +6,7 @@
 <meta name="robots" content="noindex, nofollow, noarchive">
 <meta name="referrer" content="no-referrer">
 <meta name="color-scheme" content="light">
-<title>Germany monitor</title>
+<title>Brazil monitor</title>
 <style>
 :root {
   color-scheme: light;
@@ -254,7 +254,7 @@ li.news > .bk-star { flex: none; }
 <body>
 <div class="page">
   <header class="masthead">
-    <h1>Germany monitor</h1>
+    <h1>Brazil monitor</h1>
     <p id="status"></p>
   </header>
 
@@ -476,7 +476,7 @@ li.news > .bk-star { flex: none; }
   });
 
   // Which items have been opened, remembered in this browser.
-  var READ_KEY = "germany-monitor-read";
+  var READ_KEY = "brazil-monitor-read";
   var read = {};
   try {
     (JSON.parse(localStorage.getItem(READ_KEY)) || []).forEach(function (id) { read[id] = true; });
@@ -491,14 +491,14 @@ li.news > .bk-star { flex: none; }
   }
 
   // Bookmarks remembered in this browser.
-  var BKMK_KEY = "germany-monitor-bkmk";
+  var BKMK_KEY = "brazil-monitor-bkmk";
   var bookmarks = {};
   try {
     (JSON.parse(localStorage.getItem(BKMK_KEY)) || []).forEach(function (id) { bookmarks[id] = true; });
   } catch (e) {}
 
   // Govdocs bookmarks: {url: title}
-  var GD_BKMK_KEY = "germany-monitor-bkmk-gd";
+  var GD_BKMK_KEY = "brazil-monitor-bkmk-gd";
   var gdBookmarks = {};
   try {
     var gbs = JSON.parse(localStorage.getItem(GD_BKMK_KEY));
