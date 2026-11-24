@@ -24,7 +24,7 @@ Repo: `laurastarling-collab/br-4k7q2x` (private). Local copy: `~\Downloads\gs-br
 | `pipeline.py` | Fetch, translate, score, render, post to Slack |
 | `template.html` | The whole dashboard: HTML, CSS and JavaScript in one file. Data is injected at `/*__DATA__*/null` |
 | `feeds.txt` | Feed addresses, `address \| label`. Feeds under `[wider]` are the news-alert stream; everything else is core |
-| `relevance.md` | Rumtin's scoring criteria for core items (score 3/2/1/0 and topic tags). He edits this himself |
+| `relevance.md` | 's scoring criteria for core items (score 3/2/1/0 and topic tags). He edits this himself |
 | `relevance-news.md` | Rumtin's criteria for scoring news alerts High/Medium/Low. He edits this himself |
 | `data/items.json` | Item store. Written by the workflow; do not hand-edit |
 | `docs/index.html` | Generated page. Written by the workflow; do not hand-edit |
@@ -63,7 +63,7 @@ minute later.
 To see what a run did:
 
 ```
-gh run view $(gh run list --repo rumtinsepasspour/gs-gm-xxx --workflow daily.yml --limit 1 --json databaseId --jq '.[0].databaseId') --repo rumtinsepasspour/gs-gm-xxx --log | grep -E "Reading|new|nothing|Scoring|scored|handled|Slack|failed|Done"
+gh run view $(gh run list --repo laurastarling-collab/br-4k7q2x --workflow daily.yml --limit 1 --json databaseId --jq '.[0].databaseId') --repo laurastarling-collab/br-4k7q2x --log | grep -E "Reading|new|nothing|Scoring|scored|handled|Slack|failed|Done"
 ```
 
 Do not push while a run is in progress; the run's own commit will collide.
@@ -93,7 +93,7 @@ Stored as GitHub Actions secrets, never in files or chat:
   features he did not ask for.
 - When he must run something himself, give the exact commands.
 - Write plainly and briefly. No filler, no flattery.
-- Give an English gloss for every German term.
+- Give an English gloss for every Brazilian term.
 - He is not a developer. Explain in terms of what he will see, not how the
   code works.
 
