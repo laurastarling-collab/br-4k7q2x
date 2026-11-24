@@ -22,18 +22,18 @@ https://www.google.com/alerts/feeds/08752878296651367687/15007676701911329289 | 
 https://www.google.com/alerts/feeds/08752878296651367687/12339324439086583529 | Bundesamt für Bevölkerungsschutz
 
 [wider]
-https://www.google.com/alerts/feeds/11972632802431873873/17180157991237274879 | Germany and pandemic (ML)
-https://www.google.com/alerts/feeds/11972632802431873873/15259443471532749663 | Germany and nuclear weapon (ML)
-https://www.google.com/alerts/feeds/11972632802431873873/13090482328177560577 | Germany and food security (ML)
-https://www.google.com/alerts/feeds/11972632802431873873/2339316042922410407 | Germany and climate change (ML)
-https://www.google.com/alerts/feeds/11972632802431873873/2012693207996878261 | Germany and AI safety (ML)
-https://www.google.com/alerts/feeds/11972632802431873873/13090482328177560089 | Germany and AI risk (ML)
-https://www.google.com/alerts/feeds/11972632802431873873/13090482328177557787 | Germany and biosecurity (ML)
-https://www.google.com/alerts/feeds/08752878296651367687/2338848182792995572 | Preparedness (German)
-https://www.google.com/alerts/feeds/08752878296651367687/2338848182792995796 | National resilience (German)
-https://www.google.com/alerts/feeds/08752878296651367687/4186073770247319111 | Biosecurity (German)
-https://www.google.com/alerts/feeds/08752878296651367687/9587049826375297592 | AI safety (German)
-https://www.google.com/alerts/feeds/08752878296651367687/5558100136724003081 | climate change (Germany)
-https://www.google.com/alerts/feeds/08752878296651367687/5619420418498115743 | Food security (German)
-https://www.google.com/alerts/feeds/08752878296651367687/5619420418498116930 | Nuclear weapon (German)
-https://www.google.com/alerts/feeds/08752878296651367687/5558100136724003203 | Pandemic (German)
+
+https://www.google.com/alerts/feeds/11972632802431873873/15275570601801739683 | “Brazil” and “biosecurity”
+https://www.google.com/alerts/feeds/11972632802431873873/13505732259196742727 |  "Brazil" and "Artificial Intelligence" and "risk"
+https://www.google.com/alerts/feeds/11972632802431873873/17873271426485666072 | "Brazil" and "Artificial Intelligence" and "Safety"
+https://www.google.com/alerts/feeds/11972632802431873873/9467008537518141264| "Brazil" and "climate change"
+https://www.google.com/alerts/feeds/11972632802431873873/15275570601801739715| "Brazil" and "food security”
+https://www.google.com/alerts/feeds/11972632802431873873/910163829255696997 | "Brazil" and "nuclear weapon"
+https://www.google.com/alerts/feeds/11972632802431873873/15275570601801739683 | "Brazil" and "pandemic"
+https://www.google.com/alerts/feeds/11972632802431873873/11304789158133643875 | Brazil and "Segurança Alimentar" (Portuguese)
+https://www.google.com/alerts/feeds/11972632802431873873/8230459383407557824 | Brazil and "Risco catastrófico" (Portuguese)
+https://www.google.com/alerts/feeds/11972632802431873873/4618768551550068650 | Brazil and "Mudança Climática" (Portuguese)
+https://www.google.com/alerts/feeds/11972632802431873873/3628246975445230388 | Brazil and "Inteligência Artificial" and "Segurança"(Portuguese)
+https://www.google.com/alerts/feeds/11972632802431873873/11444301863211076437 | Brazil and "Inteligência Artificial" and "Risco" (Portuguese)
+https://www.google.com/alerts/feeds/11972632802431873873/3304944743365004094 | Brazil and Armas Nucleares (Portuguese)
+https://www.google.com/alerts/feeds/11972632802431873873/8230459383407557062 | Brazil and Biosegurança (Portuguese)
