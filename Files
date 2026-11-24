@@ -1,0 +1,8 @@
+cd ~/Downloads
+unzip germany-monitor.zip
+cd germany-monitor
+git init -b main
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/laurastarling-collab/br-4k7q2x.git
+git push -u origin main
