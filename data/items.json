@@ -1,5 +1,167 @@
 [
  {
+  "id": "eb87392bcfd2f0f2",
+  "stream": "wider",
+  "url": "https://www.otempo.com.br/politica/2026/11/24/ministerio-do-desenvolvimento-social-oficializa-dispensa-em-coordenacao-de-seguranca-alimentar",
+  "source": "otempo.com.br",
+  "title_de": "Ministério do Desenvolvimento Social oficializa dispensa em coordenação de segurança alimentar",
+  "snippet_de": "O departamento compõe a Secretaria Nacional de Segurança Alimentar e Nutricional do MDS, divisão encarregada da execução de políticas públicas ...",
+  "published": "2026-11-25T00:14:11+00:00",
+  "first_seen": "2026-11-25T01:30:19+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "7ecd0d23dabbb5fb",
+  "stream": "wider",
+  "url": "https://gauchazh.clicrbs.com.br/geral/noticia/2026/11/secretaria-de-saude-de-igrejinha-apura-28-casos-suspeitos-de-intoxicacao-alimentar-em-trabalhadores-de-uma-empresa-cmwvcawct005301648kre25bd.html",
+  "source": "gauchazh.clicrbs.com.br",
+  "title_de": "Secretaria de Saúde de Igrejinha apura 28 casos suspeitos de intoxicação alimentar em ...",
+  "snippet_de": "... segurança alimentar e pela observância das boas práticas de manipulação, preparo e fornecimento de refeições. Assim que tomou conhecimento dos ...",
+  "published": "2026-11-24T23:55:07+00:00",
+  "first_seen": "2026-11-25T01:30:19+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "c51d4d4f4a48dfc8",
+  "stream": "wider",
+  "url": "https://www.cnnbrasil.com.br/curiosidades/por-que-chefs-recomendam-comer-feijao-frio-a-combinacao-com-alho-poro-e-frango-que-renova-o-almoco-de-verao/",
+  "source": "cnnbrasil.com.br",
+  "title_de": "Por que chefs recomendam comer feijão frio? A combinação com alho-poró e frango que ...",
+  "snippet_de": "Segurança alimentar e refrigeração rápida. Para garantir a conservação, o feijão cozido deve ser distribuído em recipientes rasos para agilizar o ...",
+  "published": "2026-11-24T23:41:00+00:00",
+  "first_seen": "2026-11-25T01:30:19+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "44897650a168957e",
+  "stream": "wider",
+  "url": "https://www.cnnbrasil.com.br/internacional/na-onu-brasil-defende-controle-humano-sobre-ia-em-conflitos-armados/",
+  "source": "cnnbrasil.com.br",
+  "title_de": "Na ONU, Brasil defende controle humano sobre IA em conflitos armados",
+  "snippet_de": "O secretário-geral da ONU (Organização das Nações Unidas), António Guterres, alertou o Conselho de Segurança que a inteligência artificial jamais deve ...",
+  "published": "2026-11-24T23:53:16+00:00",
+  "first_seen": "2026-11-25T01:30:19+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Segurança\"(Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "bfee5daf5434f1bc",
+  "stream": "wider",
+  "url": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/24/brasil-defende-controle-humano-ia-conflitos-armados-onu",
+  "source": "tvsimbrasil.com.br",
+  "title_de": "Brasil defende controle humano sobre uso de IA em conflitos armados na ONU",
+  "snippet_de": "O secretário-geral alertou ainda que ligar sistemas de IA ao comando de armas nucleares seria uma \"receita para a catástrofe\". Para Guterres, a ...",
+  "published": "2026-11-25T00:40:05+00:00",
+  "first_seen": "2026-11-25T01:30:19+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "dbf33f82ad23d5a4",
+  "stream": "wider",
+  "url": "https://www.folhape.com.br/noticias/presidente-de-belarus-se-oferece-para-acompanhar-zelensky-a-moscou/525998/",
+  "source": "folhape.com.br",
+  "title_de": "Presidente de Belarus se oferece para acompanhar Zelensky a Moscou para acabar com a guerra",
+  "snippet_de": "Belarus depende econômica e politicamente do Kremlin e abriga em seu território algumas das armas nucleares de Moscou. Reportar Erro. Veja também ...",
+  "published": "2026-11-25T00:15:43+00:00",
+  "first_seen": "2026-11-25T01:30:19+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "9c91c306216ed392",
+  "stream": "wider",
+  "url": "https://www.gazetadopovo.com.br/mundo/russia-desenvolve-satelite-nuclear-para-destruir-infraestrutura-espacial/",
+  "source": "gazetadopovo.com.br",
+  "title_de": "Rússia desenvolve satélite nuclear para destruir infraestrutura espacial - Gazeta do Povo",
+  "snippet_de": "Este acordo internacional proíbe expressamente que qualquer país coloque armas nucleares ou dispositivos de destruição em massa na órbita terrestre.",
+  "published": "2026-11-25T00:02:57+00:00",
+  "first_seen": "2026-11-25T01:30:19+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "cb8dd4872bc5b958",
+  "stream": "wider",
+  "url": "https://spdiario.com.br/amp/noticias/mundo/russia-prepara-satelite-com-arma-atomica-para-entrar-em-orbita-ainda-em-2026.html",
+  "source": "spdiario.com.br",
+  "title_de": "Rússia prepara satélite com arma atômica para entrar em órbita ainda em 2026",
+  "snippet_de": "... armas nucleares ou de destruição em massa fora da atmosfera terrestre. Em outubro, a Agência de Inteligência de Defesa dos Estados Unidos já havia ...",
+  "published": "2026-11-24T23:42:55+00:00",
+  "first_seen": "2026-11-25T01:30:19+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "f7fb7d5dd24f66e4",
+  "stream": "wider",
+  "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/11/24/presidente-de-belarus-se-oferece-para-acompanhar-zelensky-a-moscou-para-acabar-com-a-guerra.amp.htm",
+  "source": "noticias.uol.com.br",
+  "title_de": "Presidente de Belarus se oferece para acompanhar Zelensky a Moscou para acabar com a guerra",
+  "snippet_de": "Belarus depende econômica e politicamente do Kremlin e abriga em seu território algumas das armas nucleares de Moscou. mra/sva/ial/eab/lbf/mr/lm ...",
+  "published": "2026-11-24T22:24:38+00:00",
+  "first_seen": "2026-11-25T01:30:19+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
   "id": "2b9fc1fed3dccc93",
   "stream": "core",
   "url": "https://www.nwzonline.de/lokales/ammerland/dlrg-bad-zwischenahn-besucht-bundestag-und-innenministerium-YHKHJLFXTBC5FGGVIEBT2YCP5Q.html",
