@@ -1,5 +1,131 @@
 [
  {
+  "id": "ed0b7a17655decfc",
+  "stream": "core",
+  "url": "https://www.buchkaffee.de/shop/item/9783406854545/dachgesetz-zur-starkung-der-physischen-resilienz-kritischer-anlagen-kritisdachg-von-christian-stelter-sebastian-nellesen-mark-ennulat-u-a-gebundenes-buch",
+  "source": "buchkaffee.de",
+  "title_de": "Dachgesetz zur Stärkung der physischen Resilienz kritischer Anlagen. KRITISDachG",
+  "snippet_de": "Kaufen Sie Dachgesetz zur Stärkung der physischen Resilienz kritischer Anlagen. KRITISDachG von Christian Stelter/Sebastian Nellesen/Mark Ennulat ...",
+  "published": "2026-11-25T13:03:16+00:00",
+  "first_seen": "2026-11-27T01:32:31+00:00",
+  "alerts": [
+   "KRITIS umbrella act"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "e8ffb24a6f9982cf",
+  "stream": "core",
+  "url": "https://www.werne-plus.de/politisch/parteien/2026/gruenkohl-essen-der-cdu-mit-dem-regierungspraesidenten/",
+  "source": "werne-plus.de",
+  "title_de": "Grünkohl-Essen der CDU mit dem Regierungspräsidenten - Werne Plus",
+  "snippet_de": "... Staats- und Regierungsfunktionen in Krisen, im Spannungs- oder Verteidigungsfall, damit die öffentliche Verwaltung handlungsfähig bleibt. Derzeit ...",
+  "published": "2026-11-26T06:46:21+00:00",
+  "first_seen": "2026-11-27T01:32:31+00:00",
+  "alerts": [
+   "Continuity of government"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "076cd6a1d0e1552a",
+  "stream": "wider",
+  "url": "https://ground.news/article/pix-2027-new-safety-and-return-rules",
+  "source": "ground.news",
+  "title_de": "Pix Will Have New Safety Rules and Improvements in 2027 - Ground News",
+  "snippet_de": "ThanksgivingBlack FridayEuropa LeagueArtificial IntelligenceBrazil · App Store Icon · Play Store Icon. CompanyAboutHistoryMissionBlogTestimonialsGroup ...",
+  "published": "2026-11-26T22:58:08+00:00",
+  "first_seen": "2026-11-27T01:32:31+00:00",
+  "alerts": [
+   "\"Brazil\" and \"Artificial Intelligence\" and \"Safety\""
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "3fc4602474ab3f66",
+  "stream": "wider",
+  "url": "https://www.nation.com.pk/27-Nov-2026/pakistan-brazil-explore-coop-goat-genetics-livestock-development",
+  "source": "nation.com.pk",
+  "title_de": "Pakistan, Brazil explore coop in goat genetics, livestock development - The Nation",
+  "snippet_de": "Pakistan, Brazil explore coop in goat genetics, livestock development ... Federal Minister for National Food Security and Research Rana Tanveer ...",
+  "published": "2026-11-27T00:56:52+00:00",
+  "first_seen": "2026-11-27T01:32:31+00:00",
+  "alerts": [
+   "\"Brazil\" and \"food security”"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "93acf325fd5e1a97",
+  "stream": "wider",
+  "url": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/novembro/mte-recebe-carta-com-propostas-para-fortalecer-politicas-publicas-de-sistemas-alimentares",
+  "source": "gov.br",
+  "title_de": "MTE recebe carta com propostas para fortalecer políticas públicas de sistemas alimentares",
+  "snippet_de": "A carta reúne contribuições do Conselho Nacional de Segurança Alimentar e Nutricional (Consea), da Comissão Nacional de Agroecologia e Produção ...",
+  "published": "2026-11-27T00:13:20+00:00",
+  "first_seen": "2026-11-27T01:32:31+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "ec3e507adfde1872",
+  "stream": "wider",
+  "url": "https://www.mogidascruzes.sp.gov.br/pagina/conselho-de-seguranca-alimentar/noticia/gestores-de-creches-da-cidade-compartilham-experiencias-no-encerramento-deste-ano-da-estrategia-cinco-basicos-e-cuidar-junto",
+  "source": "mogidascruzes.sp.gov.br",
+  "title_de": "Gestores de creches da cidade compartilham experiências no encerramento deste ano da ...",
+  "snippet_de": "Conselho de Segurança Alimentar. Gestores de creches da cidade compartilham experiências no encerramento deste ano da Estratégia Cinco Básicos e ...",
+  "published": "2026-11-26T21:00:02+00:00",
+  "first_seen": "2026-11-27T01:32:31+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "1c75b9827804e425",
+  "stream": "wider",
+  "url": "https://imprensa24h.com.br/preocupacao-com-inflacao-cresce-brasil-ipsos/",
+  "source": "imprensa24h.com.br",
+  "title_de": "Preocupação com a inflação cresce no Brasil e atinge vinte e nove por cento, aponta Ipsos",
+  "snippet_de": "Outros temas acompanhados de perto incluem saúde, com 27%, mudança climática, registrando 18%, e educação, com 15% das citações. O aumento do ...",
+  "published": "2026-11-26T23:18:04+00:00",
+  "first_seen": "2026-11-27T01:32:31+00:00",
+  "alerts": [
+   "Brazil and \"Mudança Climática\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
   "id": "d171acbcda8b1cc4",
   "stream": "core",
   "url": "https://www.nussbaum.de/entdecken/news/unternehmertreffen-gaggenau-beleuchtet-die-rolle-der-wirtschaft-in-der-zivilen-verteidigung-3833943",
