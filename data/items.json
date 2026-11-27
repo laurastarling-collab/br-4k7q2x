@@ -1,5 +1,2565 @@
 [
  {
+  "id": "d171acbcda8b1cc4",
+  "stream": "core",
+  "url": "https://www.nussbaum.de/entdecken/news/unternehmertreffen-gaggenau-beleuchtet-die-rolle-der-wirtschaft-in-der-zivilen-verteidigung-3833943",
+  "source": "nussbaum.de",
+  "title_de": "Unternehmertreffen Gaggenau beleuchtet die Rolle der Wirtschaft in der zivilen Verteidigung",
+  "snippet_de": "Der Operationsplan Deutschland umfasst neben militärischen Anteilen mit der Unterstützung der Streitkräfte auch einen zivilen Anteil der ...",
+  "published": "2026-11-25T23:58:02+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Operational plan Germany",
+   "Supply of the population"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "5d592e5b7c722cdf",
+  "stream": "core",
+  "url": "https://www.abendblatt.de/hamburg/politik/article413752270/operationsplan-deutschland-mittelstaendlerin-soll-ploetzlich-krieg-einplanen.html",
+  "source": "abendblatt.de",
+  "title_de": "„Operationsplan Deutschland“: Mittelständlerin soll plötzlich Krieg einplanen - Hamburger Abendblatt",
+  "snippet_de": "„Operationsplan Deutschland“: Mittelständlerin soll plötzlich Krieg einplanen. Hamburg. Mit einem 1400 Seiten dicken Fahrplan vorbereiten für den ...",
+  "published": "2026-11-24T17:02:33+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Operational plan Germany"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "a421ac3b97ad3566",
+  "stream": "core",
+  "url": "https://www.sueddeutsche.de/bayern/gesundheitssicherheit-krisenuebungen-kliniken-aerzte-bayern-li.3586703",
+  "source": "sueddeutsche.de",
+  "title_de": "Gesundheitssystem soll für Krisen wie Corona gewappnet werden - Bayern - SZ.de",
+  "snippet_de": "Auch in Ausnahmesituationen wie einer Pandemie oder nach einem Terroranschlag muss die gesundheitliche Versorgung der Bevölkerung sichergestellt sein.",
+  "published": "2026-11-26T21:01:24+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Supply of the population"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "484c785984ca8a20",
+  "stream": "core",
+  "url": "https://oberpfalzecho.de/politik/kastl-will-seine-krisenvorsorge-auf-den-pruefstand-stellen",
+  "source": "oberpfalzecho.de",
+  "title_de": "Kastl will seine Krisenvorsorge auf den Prüfstand stellen - Oberpfalzecho",
+  "snippet_de": "... Versorgung der Bevölkerung gewährleistet werden können. Besondere Bedeutung kommt dabei der Trinkwasserversorgung, der Abwasserentsorgung, der ...",
+  "published": "2026-11-26T19:02:09+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Supply of the population"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "0019fdfcd0e95da7",
+  "stream": "core",
+  "url": "https://www.vietnam.vn/de/tao-chuyen-bien-tu-bo-tri-can-bo-lanh-dao-cap-xa",
+  "source": "vietnam.vn",
+  "title_de": "Veränderungen durch die Einbindung von Führungskräften auf Gemeindeebene herbeiführen.",
+  "snippet_de": "Die Übung zur Verteidigung der Bezirkszone wurde erfolgreich ... Versorgung der Bevölkerung gerecht werden. Thu Chung. Quelle: Báo Quảng ...",
+  "published": "2026-11-26T09:39:58+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Supply of the population"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "c7e5f0f7cc7d1c99",
+  "stream": "core",
+  "url": "https://www.aerzteblatt.de/news/tag-der-hochschulmedizin-reformstau-angehen-f9ce70ce-e892-4e6b-8b77-0ec178f287fb",
+  "source": "aerzteblatt.de",
+  "title_de": "Tag der Hochschulmedizin: Reformstau angehen – News - Deutsches Ärzteblatt",
+  "snippet_de": "... Gesundheitssicherstellungsgesetz (GeSiG). Weitere Artikel. Sorge vor Krisenfall: Charité-Chef sieht unzureichende Vorbereitung · Krisenvorsorge ...",
+  "published": "2026-11-26T01:04:04+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Health supply-assurance act"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "a6a2835d0ecb7c01",
+  "stream": "core",
+  "url": "https://www.cleanthinking.de/bundeslastverteiler/",
+  "source": "cleanthinking.de",
+  "title_de": "Bundeslastverteiler: Wer in der Gaskrise Gas zuteilt - Cleanthinking.de",
+  "snippet_de": "Wer in einer Gasmangellage noch Gas bekommt, steht in Deutschland in zwei Regelwerken: dem Energiesicherungsgesetz von 1974 und der ...",
+  "published": "2026-11-26T03:01:16+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Energy security act"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "f7edb378725df7fc",
+  "stream": "core",
+  "url": "https://ms-aktuell.de/welt/busbrand-ahrweiler-26-11-2026/",
+  "source": "ms-aktuell.de",
+  "title_de": "Drei Busse brennen aus und gefährden Stromversorgung einer Stadt - Münster Aktuell",
+  "snippet_de": "Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe weist darauf hin, dass eine zuverlässige Stromversorgung Voraussetzung für zahlreiche ...",
+  "published": "2026-11-26T18:35:18+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "246b2e5d97bb6db2",
+  "stream": "core",
+  "url": "https://www.brennessel.com/innenminister-dobrindt-steht-2027-mehr-geld-zur-verfuegung/",
+  "source": "brennessel.com",
+  "title_de": "Innenminister Dobrindt steht 2027 mehr Geld zur Verfügung - brennessel magazin",
+  "snippet_de": "... Bundesamt für Bevölkerungsschutz und Katastrophenhilfe geplant. Gespart wird dagegen im Bereich Integration und Migration. – BR. Teilen mit: Auf X ...",
+  "published": "2026-11-26T17:24:31+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "84c2d86e76504f8b",
+  "stream": "core",
+  "url": "https://www.netz-trends.de/mobilfunk-krisenvorsorge-notstrom-november-2026/",
+  "source": "netz-trends.de",
+  "title_de": "Mobilfunk im Krisenfall: Notstrom soll Basisstationen sichern - Netz Trends",
+  "snippet_de": "Das deutsche Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK) empfiehlt, sich über verschiedene Wege warnen zu lassen. Seine Hinweise ...",
+  "published": "2026-11-26T16:53:07+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "bb36ee63965ac90f",
+  "stream": "core",
+  "url": "https://www.netz-trends.de/starkregen-haus-rueckstau-schutz/",
+  "source": "netz-trends.de",
+  "title_de": "Starkregen am Haus: Freie Dachrinnen reichen nicht | Netz Trends",
+  "snippet_de": "Das deutsche Bundesamt für Bevölkerungsschutz und Katastrophenhilfe beschreibt, wie Regenwasser bei unzureichender Versickerung oder Ableitung ...",
+  "published": "2026-11-26T16:39:34+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "ba67ac2138148cfc",
+  "stream": "core",
+  "url": "https://www.instagram.com/p/DgK7ezTIkJ_/",
+  "source": "instagram.com",
+  "title_de": "Das Bundesamt für Bevölkerungsschutz (BABS) bewertet, welche Katastrophen und ... - Instagram",
+  "snippet_de": "Fakten zu Strom und Versorgungssicherheit in der Schweiz: Das Bundesamt für Bevölkerungsschutz (BABS) bewertet, welche Katastrophen und Notlagen ...",
+  "published": "2026-11-26T16:14:37+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "fa9acd48ddd2e826",
+  "stream": "core",
+  "url": "https://www.vdi-nachrichten.com/technik/informationstechnik/handyzahlung-ohne-netz-wie-sicher-ware-der-digitale-euro/",
+  "source": "vdi-nachrichten.com",
+  "title_de": "Handyzahlung ohne Netz: Wie sicher wird der digitale Euro? - VDI nachrichten",
+  "snippet_de": "... Bundesamt für Bevölkerungsschutz und Katastrophenhilfe heute empfiehlt. „Da könnte in Zukunft auch drinstehen: Halten Sie Ihr Digital-Euro-Wallet ...",
+  "published": "2026-11-26T15:59:49+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "ef9649d77fa94787",
+  "stream": "core",
+  "url": "https://www.br.de/nachrichten/meldung/innenminister-dobrindt-steht-2027-mehr-geld-zur-verfuegung%2C30082affe",
+  "source": "br.de",
+  "title_de": "Innenminister Dobrindt steht 2027 mehr Geld zur Verfügung | BR24",
+  "snippet_de": "Höhere Ausgaben sind unter anderem für Bundespolizei, Bundeskriminalamt und das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe geplant.",
+  "published": "2026-11-26T15:29:25+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "703c549fecce3430",
+  "stream": "core",
+  "url": "https://www.netzwelt.de/news/261341-haben-15-dab-plus-radios-getestet-testsieger-warnt-selbst-ohne-handynetz-katastrophen.html",
+  "source": "netzwelt.de",
+  "title_de": "Wir haben 15 DAB+-Radios getestet: Unser Testsieger warnt selbst ohne Handynetz vor ...",
+  "snippet_de": "Auch deshalb empfiehlt euch das Bundesamt für Bevölkerungsschutz und Katastrophenschutz, Vorräte und eine Notausrüstung anzulegen. Dazu gehört ...",
+  "published": "2026-11-26T15:13:09+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "d25217fce312ab99",
+  "stream": "core",
+  "url": "https://www.zdfheute.de/politik/deutschland/asyl-rueckkehr-abschiebung-zentrum-ruanda-kosten-union-100.html",
+  "source": "zdfheute.de",
+  "title_de": "Ruanda-Pläne: Union nennt erstmals Kosten für Abschiebezentren - ZDFheute",
+  "snippet_de": "Auch die Ausgaben beim Bundesamt für Bevölkerungsschutz und Katastrophenhilfe sollen steigen. Prof. Daniel Thym. Erneut laden.",
+  "published": "2026-11-26T13:28:56+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "d29f2d1ac7d31b28",
+  "stream": "core",
+  "url": "https://ch.jooble.org/jdp/-6199268099104005981",
+  "source": "ch.jooble.org",
+  "title_de": "Chef de Projet Construction — Ouvrages de Protection bei Bundesamt für Bevölkerungsschutz BABS",
+  "snippet_de": "Le Bundesamt für Bevölkerungsschutz BABS à Berne recherche un ingénieur civil expérimenté pour diriger des projets de protection et construction, ...",
+  "published": "2026-11-26T13:11:51+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "0b3a241b85c737f3",
+  "stream": "core",
+  "url": "https://www.ad-hoc-news.de/wissenschaft/telekomnetze-bundesnetzagentur-fordert-notstrom-fuer-wichtige-basisstationen/70558117",
+  "source": "ad-hoc-news.de",
+  "title_de": "Telekomnetze: Bundesnetzagentur fordert Notstrom für wichtige Basisstationen",
+  "snippet_de": "Ergänzend zu den behördlichen und netzbetreiberseitigen Maßnahmen weist das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe auf Vorkehrungen ...",
+  "published": "2026-11-26T12:53:40+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "e5e0a48f7f4276b6",
+  "stream": "core",
+  "url": "https://www.harzkurier.de/harzkurier/bad-lauterberg/article413783743/grossbrand-in-bad-lauterberg-feuerwehr-sperrt-industriegebiet-in-barbis.html",
+  "source": "harzkurier.de",
+  "title_de": "Großbrand in Bad Lauterberg: Feuerwehr sperrt Industriegebiet in Barbis - Harzkurier",
+  "snippet_de": "Dichter Rauch, ein Großbrand in einer Lagerhalle und mehrere Verletzte. Im Industriegebiet Barbis muss die Feuerwehr das Areal sperren.",
+  "published": "2026-11-26T12:25:00+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "49db248af6e90c99",
+  "stream": "core",
+  "url": "https://de.linkedin.com/jobs/view/krisenmanagerin-krisenmanager-m-w-d-im-referat-l-7-%E2%80%9Einternes-krisen%C2%ADmanagement%E2%80%9C-at-bundesamt-f%C3%BCr-bev%C3%B6lkerungsschutz-und-katastrophenhilfe-bbk-4493823094",
+  "source": "de.linkedin.com",
+  "title_de": "Krisenmanagerin / Krisenmanager (m/w/d) im Referat L.7 „Internes Krisenmanagement“",
+  "snippet_de": "... Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK) in Bonn. Position mit Vollzeit Management. Sehen Sie sich Verantwortlichkeiten ...",
+  "published": "2026-11-26T11:54:07+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "d7eea67f90a04cb9",
+  "stream": "core",
+  "url": "https://nius.de/politik/return-hubs-union-nennt-erstmals-kosten-fuer-ruanda-plaene",
+  "source": "nius.de",
+  "title_de": "Mindestens 5 Millionen Euro: Return Hubs: Union nennt erstmals Kosten für Ruanda-Pläne",
+  "snippet_de": "Auch das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe soll mehr Geld erhalten. Beim Bundesamt für Migration und Flüchtlinge sinken die ...",
+  "published": "2026-11-26T11:41:02+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "5285ba5d0d6ec54f",
+  "stream": "core",
+  "url": "https://www.polizeinews.ch/2026/11/26/ueber-20-jahre-erfahrung-marcel-odermatt-uebernimmt-leitung-des-bevoelkerungsschutzes/",
+  "source": "polizeinews.ch",
+  "title_de": "Über 20 Jahre Erfahrung: Marcel Odermatt übernimmt Leitung des Bevölkerungsschutzes",
+  "snippet_de": "Das Bundesamt für Bevölkerungsschutz unterscheidet zwischen Informationen, Warnungen vor möglichen Gefahren und Alarmierungen bei unmittelbarer Gefahr ...",
+  "published": "2026-11-26T10:59:13+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "9921d401951fceb4",
+  "stream": "core",
+  "url": "https://www.news.de/lokales/860221141/gasversorgung-ausgefallen-hilchenbach-am-26-11-2026-warnmeldung-siegen-wittgenstein-via-mowas-heute/1/",
+  "source": "news.de",
+  "title_de": "Ausfall der Gasversorgung Hilchenbach heute - News.de",
+  "snippet_de": "Im Fall eines Ausfalls der Gasversorgung empfiehlt das zuständige Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK) Folgendes:.",
+  "published": "2026-11-26T10:53:01+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "975c4b752dd01ec9",
+  "stream": "core",
+  "url": "https://www.hna.de/verbraucher/hamsterkaeufe-durch-fake-news-wie-geruechte-fuer-panik-sorgen-zr-94609136.html",
+  "source": "hna.de",
+  "title_de": "Lüge über Weltkrieg löst Hamsterkäufe aus: Wie Gerüchte im Netz zu Panikkäufen führen",
+  "snippet_de": "Auch in Deutschland gibt es seit Jahren offizielle Empfehlungen für einen Lebensmittelvorrat: Das Bundesamt für Bevölkerungsschutz und ...",
+  "published": "2026-11-26T10:39:22+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "21e71ad18279fe26",
+  "stream": "core",
+  "url": "https://live.deutsche-boerse.com/nachrichten/Union-verteidigt-Ruanda-Plaene---und-nennt-erstmals-Zahlen-88acc121-005e-478c-a6cc-bf2826477a58",
+  "source": "live.deutsche-boerse.com",
+  "title_de": "Union verteidigt Ruanda-Pläne - und nennt erstmals Zahlen - Börse Frankfurt",
+  "snippet_de": "Auch die Ausgaben beim Bundesamt für Bevölkerungsschutz und Katastrophenhilfe sollen steigen. Die Gesamtausgaben des Bundesamts für Migration und ...",
+  "published": "2026-11-26T10:27:07+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "7d25ff6419df0d01",
+  "stream": "core",
+  "url": "https://ms-aktuell.de/welt/brand-dornstadt-26-11-2026/",
+  "source": "ms-aktuell.de",
+  "title_de": "Autofahrer rettet 80-Jährige aus brennendem Wohnhaus in Dornstadt - Münster Aktuell",
+  "snippet_de": "Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe warnt ausdrücklich davor, stark verrauchte Räume zu betreten. Bereits wenige Atemzüge ...",
+  "published": "2026-11-26T10:21:51+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "9996d9a5b1d71681",
+  "stream": "core",
+  "url": "https://www.presseportal.de/pm/151515/6398348",
+  "source": "presseportal.de",
+  "title_de": "Sachsenlotto-Rubbelkalender besucht sein Motiv Schloss Moritzburg - Presseportal",
+  "snippet_de": "Sächsische Lotto-GmbH - Schloss Moritzburg gehört für viele Menschen in Sachsen zur Weihnachtszeit ...✚ Mehr lesen.",
+  "published": "2026-11-26T09:31:34+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "9345977fd672ace1",
+  "stream": "wider",
+  "url": "https://bioengineer.org/study-details-how-brazilian-courts-adjudicated-medication-disputes-during-pandemic-emergencies/",
+  "source": "bioengineer.org",
+  "title_de": "Study Details How Brazilian Courts Adjudicated Medication Disputes During Pandemic Emergencies",
+  "snippet_de": "Keywords: judicial adjudication, health litigation, COVID-19 pandemic, Brazil ... Scienmag. Tags: ANVISABrazilCONITECCOVID-19 pandemice-NatJus ...",
+  "published": "2026-11-26T15:48:27+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "“Brazil” and “biosecurity”",
+   "\"Brazil\" and \"pandemic\""
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "6601069cbd1576c7",
+  "stream": "wider",
+  "url": "https://www.openpr.com/news/4700435/rony-jabour-to-speak-at-brazil-s-national-workplace-safety",
+  "source": "openpr.com",
+  "title_de": "Rony Jabour to speak at Brazil's national workplace safety congress in Salvador - openPR.com",
+  "snippet_de": "Jabour will speak at the 28th National Congress of Occupational Safety Engineering (CONEST) in Salvador, Brazil,. Boston-based safety educator Rony ...",
+  "published": "2026-11-26T12:48:06+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "\"Brazil\" and \"Artificial Intelligence\" and \"Safety\""
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "fadbe23aae83aaca",
+  "stream": "wider",
+  "url": "https://www.ncwlife.com/online_features/press_releases/rony-jabour-to-speak-at-brazil-s-national-workplace-safety-congress-in-salvador/article_37421da5-93f3-54fe-899f-ee413772f197.html",
+  "source": "ncwlife.com",
+  "title_de": "Rony Jabour to speak at Brazil's national workplace safety congress in Salvador",
+  "snippet_de": "Jabour will speak at the 28th National Congress of Occupational Safety Engineering (CONEST) in Salvador, Brazil, Nov. 23–25, 2026.\"Boston-based safety ...",
+  "published": "2026-11-26T11:10:01+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "\"Brazil\" and \"Artificial Intelligence\" and \"Safety\""
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "d42e31973c33ae86",
+  "stream": "wider",
+  "url": "https://www.gov.br/planalto/en/follow-the-government/speeches-statements/2026/president-lulas-press-statement-at-the-conclusion-of-his-official-mission-to-the-philippines",
+  "source": "gov.br",
+  "title_de": "President Lula's press statement at the conclusion of his official mission to the Philippines",
+  "snippet_de": "But I find it important to tell you that this trip, in addition to participating in COP31 and discussing Brazil's role in addressing climate change in ...",
+  "published": "2026-11-26T17:30:54+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "\"Brazil\" and \"climate change\""
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "1bd3194d932c6ee0",
+  "stream": "wider",
+  "url": "https://en.travel2latam.com/news-111991-embratur-and-netflix-launch-a-pantanal-guide-to-attract-international-travelers-to-brazil.html",
+  "source": "en.travel2latam.com",
+  "title_de": "Embratur and Netflix launch a Pantanal guide to attract international travelers to Brazil",
+  "snippet_de": "... Brazil's main environmental heritages closer to the international public. ... climate change. The initiative aligns with Quintana Roo's environmental ...",
+  "published": "2026-11-26T16:35:24+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "\"Brazil\" and \"climate change\""
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "05a59ecc9f8f7a13",
+  "stream": "wider",
+  "url": "https://www.gavi.org/vaccineswork/how-drought-disrupting-healthcare-brazils-amazon-communities",
+  "source": "gavi.org",
+  "title_de": "How drought is disrupting healthcare in Brazil's Amazon communities",
+  "snippet_de": "But with climate change and increasingly extreme drought seasons ... In Brazil alone, the forest has lost 14.5% of its water surfaces in two ...",
+  "published": "2026-11-26T15:24:02+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "\"Brazil\" and \"climate change\""
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "34b34a933dbf8cc5",
+  "stream": "wider",
+  "url": "https://www.newsgd.com/node_99363c4f3b/f37aa95e5d.shtml",
+  "source": "newsgd.com",
+  "title_de": "Former Brazilian diplomat decodes structural, institutional challenges of climate change",
+  "snippet_de": "Brazil is paying 14 percent interest on its debt, while Japan pays just 3 percent. China, Brazil can work against climate change starting from ...",
+  "published": "2026-11-26T14:19:03+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "\"Brazil\" and \"climate change\""
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "432c8af7b6a4f733",
+  "stream": "wider",
+  "url": "https://voxdev.org/topic/migration-urbanisation/after-confederacy-fell-its-migrants-helped-industrialise-brazil",
+  "source": "voxdev.org",
+  "title_de": "After the Confederacy fell, its migrants helped industrialise Brazil - VoxDev",
+  "snippet_de": "El Salvador village · Climate change and rural livelihoods: How extreme heat drives international migration from El Salvador. Published 12.11.25. Sign ...",
+  "published": "2026-11-26T14:07:05+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "\"Brazil\" and \"climate change\""
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "abccd5bba699d34e",
+  "stream": "wider",
+  "url": "https://table.media/en/climate/feature/cop-of-truth-setbacks-in-the-fight-against-climate-disinformation",
+  "source": "table.media",
+  "title_de": "'COP of Truth': Setbacks in the fight against climate disinformation - Table.Briefings",
+  "snippet_de": "A year ago, Brazil launched an initiative to combat climate disinformation ... (UN Climate Change – Kubilay Ciftci)",
+  "published": "2026-11-26T12:57:57+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "\"Brazil\" and \"climate change\""
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "472bb12acf15478f",
+  "stream": "wider",
+  "url": "https://timesofmalta.com/article/five-things-expect-2027.1137674",
+  "source": "timesofmalta.com",
+  "title_de": "Five things to expect in 2027 - Times of Malta",
+  "snippet_de": "World Football Brazil Climate change Weather. 0 minutes ago | AFP ... Brazil on January 25, 2026. File photo: AFP. Things are set to heat up in ...",
+  "published": "2026-11-26T12:18:16+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "\"Brazil\" and \"climate change\""
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "8a008ef49245684f",
+  "stream": "wider",
+  "url": "https://www2.fundsforngos.org/fellowships/open-call-for-biota-synthesis-and-transformation-in-brazil/",
+  "source": "www2.fundsforngos.org",
+  "title_de": "Open Call for BIOTA Synthesis and Transformation in Brazil - fundsforNGOs",
+  "snippet_de": "... Climate Change & Biodiversity Proposals · Community Development Proposals ... Institutional Affiliation: Must be affiliated with higher education or ...",
+  "published": "2026-11-26T06:38:57+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "\"Brazil\" and \"climate change\"",
+   "\"Brazil\" and \"food security”"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "c942551faa995cdd",
+  "stream": "wider",
+  "url": "https://www.reutersconnect.com/item/brazilian-reefs-lose-33-of-live-coral-cover-due-to-climate-change/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XRUZWQzU1MDIyMTAxOTk2MDAx",
+  "source": "reutersconnect.com",
+  "title_de": "Brazilian reefs lose 33% of live coral cover due to climate change | Reuters Connect",
+  "snippet_de": "25 (EFE).- Brazil's coral reefs lost 33.8% of their live coral cover between 2016 and 2024, mainly due to ocean warming, a decline that threatens ...",
+  "published": "2026-11-26T02:16:27+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "\"Brazil\" and \"climate change\""
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "9ce820be6ec1f08d",
+  "stream": "wider",
+  "url": "https://arynews.tv/brazil-expresses-interest-in-pakistans-indigenous-goat-breeds",
+  "source": "arynews.tv",
+  "title_de": "Brazil expresses interest in Pakistan's indigenous goat breeds - ARY News",
+  "snippet_de": "Brazil expresses interest in Pakistan's indigenous goat breeds. By ... Pakistan's Federal Minister for National Food Security and Research ...",
+  "published": "2026-11-26T19:42:38+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "\"Brazil\" and \"food security”"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "d29721403e7ddd76",
+  "stream": "wider",
+  "url": "https://www.omanobserver.om/article/1200260/business/oman-eyes-strategic-fertiliser-mining-partnerships-with-brazil",
+  "source": "omanobserver.om",
+  "title_de": "Oman eyes strategic fertiliser, mining partnerships with Brazil",
+  "snippet_de": "MUSCAT: The Sultanate of Oman is exploring opportunities to forge strategic investment partnerships with Brazil across the food security, ...",
+  "published": "2026-11-26T18:18:09+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "\"Brazil\" and \"food security”"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "164f55c4410450d8",
+  "stream": "wider",
+  "url": "https://adventist.news/news/adra-begins-sending-basic-food-baskets-to-families-in-emergency-situations-in-maraj%C3%B3",
+  "source": "adventist.news",
+  "title_de": "ADRA begins sending basic food baskets to families in emergency situations in Marajó",
+  "snippet_de": "About 650 basic food baskets were sent to communities in Muaná and São Sebastião da Boa Vista, Pará, Brazil.",
+  "published": "2026-11-26T15:56:35+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "\"Brazil\" and \"food security”"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "a6144d4c03cab8e2",
+  "stream": "wider",
+  "url": "http://www.ahora.cu/en/health/27781-brazil-s-mst-promotes-shipment-of-medicines-to-cuba/amp",
+  "source": "ahora.cu",
+  "title_de": "Brazil's MST promotes shipment of medicines to Cuba",
+  "snippet_de": "Brazil's MST promotes shipment of medicines to Cuba. November 26 ... food security.[ SOURCE: AGENCIA CUBANA DE NOTICIAS ]. Redacción ¡ahora ...",
+  "published": "2026-11-26T14:33:05+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "\"Brazil\" and \"food security”"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "147bb4b3b8ad2595",
+  "stream": "wider",
+  "url": "https://www2.fundsforngos.org/fellowships/2nd-round-pipe-technological-journey-program-brazil/",
+  "source": "www2.fundsforngos.org",
+  "title_de": "2nd Round: PIPE Technological Journey Program (Brazil) - fundsforNGOs",
+  "snippet_de": "... Brazil, with a focus on projects that address significant technological ... Food Security Proposals · Poverty Alleviation Proposals · Refugees ...",
+  "published": "2026-11-26T11:23:53+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "\"Brazil\" and \"food security”"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "2a14f6e76570c5f7",
+  "stream": "wider",
+  "url": "https://reliefweb.int/map/somalia/somalia-acute-food-insecurity-situation-overview-rural-urban-and-idp-food-security-outcomes-projection-update-october-december-2026",
+  "source": "reliefweb.int",
+  "title_de": "Rural, Urban and IDP Food Security Outcomes: Projection Update October - ReliefWeb",
+  "snippet_de": "Somalia Acute Food Insecurity Situation Overview - Rural, Urban and IDP Food Security Outcomes: Projection Update October - December 2026 ... Brazil + 1 ...",
+  "published": "2026-11-26T02:13:25+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "\"Brazil\" and \"food security”"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "1dae554a6639bf5d",
+  "stream": "wider",
+  "url": "https://www.ouropreto.mg.gov.br/noticia/5941",
+  "source": "ouropreto.mg.gov.br",
+  "title_de": "Ouro Preto participa de capacitação sobre Segurança Alimentar e Nutricional promovida pela CNM",
+  "snippet_de": "... Segurança Alimentar, Desenvolvimento Rural, Educação e Poder Legislativo. A capacitação sobre Segurança Alimentar e Nutricional foi conduzida por ...",
+  "published": "2026-11-26T23:33:36+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "8148afa39cedc941",
+  "stream": "wider",
+  "url": "https://amazonia.fiocruz.br/?p=3039",
+  "source": "amazonia.fiocruz.br",
+  "title_de": "Centro de Estudos coloca em discussão as questões relacionadas às inseguranças ...",
+  "snippet_de": "Membro da coordenação executiva da Rede Brasileira de Pesquisa em Soberania e Segurança Alimentar e Nutricional (Rede PENSSAN), Mayline tem como ...",
+  "published": "2026-11-26T23:29:29+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "791791bcc62e57bc",
+  "stream": "wider",
+  "url": "https://www.estadao.com.br/pulsa/nutricao/5-alimentos-que-especialistas-em-seguranca-alimentar-evitam-comer/",
+  "source": "estadao.com.br",
+  "title_de": "5 alimentos que especialistas em segurança alimentar evitam comer - Estadão",
+  "snippet_de": "5 alimentos que especialistas em segurança alimentar evitam comer. Para além de carne ou ovos malcozidos, há ingredientes menos óbvios que merecem ...",
+  "published": "2026-11-26T22:08:16+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "f1e312a38606b01a",
+  "stream": "wider",
+  "url": "https://oglobo.globo.com/economia/noticia/2026/11/26/macron-diz-que-carne-brasileira-e-dopada-e-associacao-repudia-declaracao.ghtml",
+  "source": "oglobo.globo.com",
+  "title_de": "Macron diz que carne brasileira é 'dopada', e associações repudiam declaração - O GLOBO",
+  "snippet_de": "... segurança alimentar do bloco europeu há mais de 40 anos. EUA fazem novas ameaças tarifárias ao Brasil: veja o que está por trás da ofensiva e os ...",
+  "published": "2026-11-26T22:03:25+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "8142e33910d42d7f",
+  "stream": "wider",
+  "url": "https://www.se.gov.br/agencia/noticias/assistencia-social/seasic_leva_beneficio_do_mao_amiga_laranja_a_mais_de_200_trabalhadores_rurais_de_quatro_municipios",
+  "source": "se.gov.br",
+  "title_de": "Seasic leva benefício do Mão Amiga Laranja a mais de 200 trabalhadores ... - Governo de Sergipe",
+  "snippet_de": "... segurança alimentar e financeira de quem depende da citricultura. O benefício será pago em quatro parcelas, e a primeira já estará disponível ...",
+  "published": "2026-11-26T21:52:43+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "3c31959f606d0dc2",
+  "stream": "wider",
+  "url": "https://www.gov.br/secretariageral/pt-br/noticias/2026/novembro/representantes-dos-conselhos-nacionais-dos-sistemas-alimentares-reunem-se-com-o-ministro-guilherme-boulos",
+  "source": "gov.br",
+  "title_de": "Representantes dos Conselhos Nacionais dos Sistemas Alimentares reúnem-se com o ...",
+  "snippet_de": "Integram o sistema os conselhos nacionais de Segurança Alimentar e Nutricional (CONSEA); de Desenvolvimento Rural Sustentável (CONDRAF); de ...",
+  "published": "2026-11-26T21:42:00+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "bf6720f7e1581ec8",
+  "stream": "wider",
+  "url": "https://www.gov.br/secretariageral/pt-br/noticias/2026/novembro/conselhos-nacionais-articulam-agenda-comum-para-fortalecer-a-agroecologia-e-a-participacao-social",
+  "source": "gov.br",
+  "title_de": "Conselhos nacionais articulam agenda comum para fortalecer a agroecologia e a participação social",
+  "snippet_de": "... Segurança Alimentar e Nutricional (Consea), do Conselho Nacional de Desenvolvimento Rural Sustentável (Condraf), do Conselho Nacional de Economia ...",
+  "published": "2026-11-26T21:30:59+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "7621703e20a7ba18",
+  "stream": "wider",
+  "url": "https://canoas.rs.gov.br/noticias/canoas-garante-mais-de-r-179-mil-em-alimentos-para-reforcar-a-seguranca-alimentar-da-populacao/",
+  "source": "canoas.rs.gov.br",
+  "title_de": "Canoas garante mais de R$ 179 mil em alimentos para reforçar a segurança alimentar da população",
+  "snippet_de": "Estamos ampliando o acesso a alimentos de qualidade para as famílias que mais precisam, fortalecendo a segurança alimentar e, ao mesmo tempo, ...",
+  "published": "2026-11-26T21:24:26+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "e113596af56fb769",
+  "stream": "wider",
+  "url": "https://www.curitiba.pr.gov.br/noticias/conselho-do-meio-ambiente-planeja-acoes-para-2027-e-homenageia-ex-conselheiro-por-30-anos-de-trabalho/86142",
+  "source": "curitiba.pr.gov.br",
+  "title_de": "Conselho do Meio Ambiente planeja ações para 2027 e homenageia ex-conselheiro por 30 ...",
+  "snippet_de": "Fazem parte do conselho profissionais das secretarias municipais do Meio Ambiente, do Urbanismo, da Educação, da Saúde e de Segurança Alimentar e ...",
+  "published": "2026-11-26T21:11:56+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "d96a3bcb2de290ab",
+  "stream": "wider",
+  "url": "https://www.mogidascruzes.sp.gov.br/pagina/conselho-de-seguranca-alimentar/noticia/mara-bertaiolli-formaliza-parceria-com-o-centro-universitario-braz-cubas-para-servicos-a-funcionarios-e-dependentes",
+  "source": "mogidascruzes.sp.gov.br",
+  "title_de": "Mara Bertaiolli formaliza parceria com o Centro Universitário Braz Cubas para serviços a ...",
+  "snippet_de": "Conselho de Segurança Alimentar. Mara Bertaiolli formaliza parceria com o Centro Universitário Braz Cubas para serviços a funcionários e ...",
+  "published": "2026-11-26T21:00:01+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "5183dd0d391395ef",
+  "stream": "wider",
+  "url": "https://www.divinopolis.mg.gov.br/portal/noticias/0/3/29483/prefeitura-promove-oficinas-de-preparo-artesanal-de-alimentos",
+  "source": "divinopolis.mg.gov.br",
+  "title_de": "Prefeitura promove oficinas de preparo artesanal de alimentos",
+  "snippet_de": "... segurança alimentar e nutricional. “Quando levamos conhecimento às comunidades e às instituições, ampliamos as possibilidades de transformação da ...",
+  "published": "2026-11-26T20:05:44+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "98e1cef09b015f32",
+  "stream": "wider",
+  "url": "https://www.estadao.com.br/em-alta/pulsa/nutricao/5-alimentos-que-especialistas-em-seguranca-alimentar-evitam-comer/",
+  "source": "estadao.com.br",
+  "title_de": "5 alimentos que especialistas em segurança alimentar evitam comer - Estadão",
+  "snippet_de": "5 alimentos que especialistas em segurança alimentar evitam comer · Hoje em 5' · Hayden Panettiere deixa fortuna milionária e ex recorre à Justiça, diz ...",
+  "published": "2026-11-26T19:52:38+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "c1618149437857f3",
+  "stream": "wider",
+  "url": "https://www.curitiba.pr.gov.br/noticias/estudo-da-ufpr-avalia-potencial-das-hortas-urbanas-no-armazenamento-de-carbono/86138?utm_content=mldn",
+  "source": "curitiba.pr.gov.br",
+  "title_de": "Estudo da UFPR avalia potencial das hortas urbanas no armazenamento de carbono",
+  "snippet_de": "Para o secretário municipal de Segurança Alimentar e Nutricional, Leverci Silveira Filho, o estudo amplia o conhecimento sobre os benefícios da ...",
+  "published": "2026-11-26T19:51:32+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "97371a08f2365864",
+  "stream": "wider",
+  "url": "https://www.chapeco.sc.gov.br/noticia/13207/prefeitura-e-igreja-catolica-entregam-auxilio-para-familias-atingidas-pelo-tornado",
+  "source": "chapeco.sc.gov.br",
+  "title_de": "Prefeitura e Igreja Católica entregam auxílio para famílias atingidas pelo tornado",
+  "snippet_de": "A iniciativa busca acelerar a recuperação das moradias e garantir segurança alimentar e bem-estar aos moradores que sofreram perdas materiais com o ...",
+  "published": "2026-11-26T19:38:15+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "e3297dea803a06bd",
+  "stream": "wider",
+  "url": "https://www3.franca.sp.gov.br/noticia/40403/plano-municipal-de-segurana-alimentar-e-nutricional.html",
+  "source": "www3.franca.sp.gov.br",
+  "title_de": "Plano Municipal de Segurança Alimentar e Nutricional - Portal Oficial de Franca - São Paulo",
+  "snippet_de": "Plano Municipal de Segurança Alimentar e Nutricional. Publicado em 26/11/2026 12:46 -. Início/; Administração Direta/; Ação Social/ ...",
+  "published": "2026-11-26T19:36:08+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "589846a2e7aceac7",
+  "stream": "wider",
+  "url": "https://planejamento.rs.gov.br/governo-do-estado-mobiliza-servidores-para-campanha-natal-solidario-2026",
+  "source": "planejamento.rs.gov.br",
+  "title_de": "Governo do Estado mobiliza servidores para campanha Natal Solidário 2026",
+  "snippet_de": "Além da adoção das cartinhas, o Natal Solidário 2026 também promove uma ação voltada à segurança alimentar de famílias em situação de vulnerabilidade.",
+  "published": "2026-11-26T19:19:36+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "20d0ac6dab063e29",
+  "stream": "wider",
+  "url": "https://prefeitura.sp.gov.br/web/sesana/w/cresans-oferecem-oficinas-gratuitas-com-receitas-especiais-para-a-ceia-de-natal",
+  "source": "prefeitura.sp.gov.br",
+  "title_de": "CRESANs oferecem oficinas gratuitas com receitas especiais para a ceia de Natal",
+  "snippet_de": "Centros de Referência em Segurança Alimentar e Nutricional (CRESANs) Vila Maria e Butantã, explorando receitas para compor a sua ceia natalina. · dias ...",
+  "published": "2026-11-26T19:02:34+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "304727c470d85a1d",
+  "stream": "wider",
+  "url": "https://prefeitura.sp.gov.br/web/sesana/w/prefeitura-de-s%C3%A3o-paulo-e-c40-cities-iniciam-estudo-para-ampliar-a-compostagem-na-cidade",
+  "source": "prefeitura.sp.gov.br",
+  "title_de": "Prefeitura de São Paulo e C40 Cities iniciam estudo para ampliar a compostagem na cidade",
+  "snippet_de": "O trabalho será desenvolvido em cooperação com cinco secretarias municipais: Mudanças Climáticas (Seclima), Segurança Alimentar e Nutricional e ...",
+  "published": "2026-11-26T19:02:34+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "3fc11777f610d401",
+  "stream": "wider",
+  "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/11/201ctrabalhamos-em-varias-politicas-para-o-publico-da-pesca-para-garantir-seguranca-alimentar201d-diz-edipo-araujo-sobre-efeitos-do-el-nino-no-setor",
+  "source": "gov.br",
+  "title_de": "“Trabalhamos em várias políticas para o público da pesca, para garantir segurança ...",
+  "snippet_de": "“Trabalhamos em várias políticas para o público da pesca, para garantir segurança alimentar”, diz Edipo Araujo, sobre efeitos do El Niño no setor.",
+  "published": "2026-11-26T18:45:12+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "53e22e27f2d84a84",
+  "stream": "wider",
+  "url": "https://correiodosmunicipios-al.com.br/geral/2026/11/26/206157-trabalhamos-em-varias-politicas-para-o-publico-da-pesca-para-garantir-seguranca-alimentar-diz-edipo-araujo-sobre-efeitos-do-el-nino-no-setor",
+  "source": "correiodosmunicipios-al.com.br",
+  "title_de": "“Trabalhamos em várias políticas para o público da pesca, para garantir segurança ...",
+  "snippet_de": "Segundo ele, mais de R$ 1,6 bilhão foi investido pelo Governo Federal na força-tarefa para o enfrentamento climático, segurança alimentar, ...",
+  "published": "2026-11-26T18:38:09+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "16675a4dda4b4b52",
+  "stream": "wider",
+  "url": "https://jundiagora.com.br/museu/",
+  "source": "jundiagora.com.br",
+  "title_de": "MUSEU DIOCESANO será reaberto hoje(26) - Jornal Jundiaí Agora",
+  "snippet_de": "... mudança climática · natal · Jundiaí e Região · NATAL ENCANTADO: Centro começa ... mudança climática. 26 de novembro de 2026. Coral e Orquestra Ágape ...",
+  "published": "2026-11-26T22:10:31+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Mudança Climática\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "34440dc90968780d",
+  "stream": "wider",
+  "url": "https://www.brasil247.com/bndes/bndes-planeja-fundo-de-equity-para-infraestrutura-no-primeiro-semestre-de-2027/",
+  "source": "brasil247.com",
+  "title_de": "BNDES planeja fundo de equity para infraestrutura no primeiro semestre de 2027",
+  "snippet_de": "O anúncio foi feito nesta quinta-feira (26) pela diretora de Infraestrutura, Transição Energética e Mudança Climática da instituição, Luciana ...",
+  "published": "2026-11-26T21:13:53+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Mudança Climática\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "62bd67dac60f94a6",
+  "stream": "wider",
+  "url": "https://www.pjf.mg.gov.br/noticias/view.php?modo=link2&idnoticia2=90070",
+  "source": "pjf.mg.gov.br",
+  "title_de": "PJF promove encontro de acolhimento para mulheres afetadas pela calamidade | Notícias",
+  "snippet_de": "NOTÍCIAS: SAS. JUIZ DE FORA - 26/11/2026 - 18:07. 13. Ação contra a Mudança Climática 10. Redução das Desigualdades. Select Language ​ ▽. PJF promove ...",
+  "published": "2026-11-26T21:08:45+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Mudança Climática\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "6ea47e68e113e94e",
+  "stream": "wider",
+  "url": "https://www.brasildefato.com.br/2026/11/26/por-que-o-clima-no-parana-esta-tao-instavel-entenda-as-causas-e-preocupacoes/",
+  "source": "brasildefato.com.br",
+  "title_de": "Por que o clima no Paraná está tão extremo? Entenda as causas e preocupações",
+  "snippet_de": "Resultado da ação humana, de todas as atividades humanas no planeta. Então, significa que a mudança climática é uma realidade entre nós. Só que, a ...",
+  "published": "2026-11-26T21:01:16+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Mudança Climática\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "c35efa1d16bfdf07",
+  "stream": "wider",
+  "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/26/dias-quentes-dobram-no-reino-unido-e-geadas-devem-diminuir.ghtm",
+  "source": "noticias.uol.com.br",
+  "title_de": "Número de dias quentes deve dobrar no Reino Unido; geadas vão diminuir - UOL Notícias",
+  "snippet_de": "O verão está ficando mais longo, enquanto o inverno se encurta, diz James Pope, gerente científico do Met Office. Segundo ele, a mudança climática ...",
+  "published": "2026-11-26T20:28:17+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Mudança Climática\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "c6502b63bcad5361",
+  "stream": "wider",
+  "url": "https://www.correiobraziliense.com.br/mundo/2026/11/7544858-pier-na-california-e-destruido-por-ondas-provocadas-pelo-el-nino.html",
+  "source": "correiobraziliense.com.br",
+  "title_de": "Píer na Califórnia é destruído por ondas provocadas pelo El Niño - Correio Braziliense",
+  "snippet_de": "MUDANÇA CLIMÁTICA. Famoso píer na Califórnia é destruído por ondas gigantes provocadas pelo El Niño. Estrutura de Pacifica já estava interditada ...",
+  "published": "2026-11-26T17:31:20+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Mudança Climática\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "3985a899b0cede74",
+  "stream": "wider",
+  "url": "https://bh24horas.com.br/ciencia/habitat-potencial-do-falcao-peregrino-pode-avancar-735-no-reino-unido-ate-2080/",
+  "source": "bh24horas.com.br",
+  "title_de": "Habitat potencial do falcão-peregrino pode avançar 73,5% no Reino Unido até 2080",
+  "snippet_de": "... mudança climática provocará consequências negativas para todas as espécies e grupos taxonômicos. Flexibilidade ajuda a explicar possível avanço. A ...",
+  "published": "2026-11-26T17:24:15+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Mudança Climática\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "8bfd6d1a9a4cee8b",
+  "stream": "wider",
+  "url": "https://br.ign.com/grand-theft-auto-vi/157959/gta-6-frita-playstation-5-de-streamer-enquanto-fazia-transmisso-ao-vivo-outros-jogadores-relatam-pro",
+  "source": "br.ign.com",
+  "title_de": "GTA 6 \"frita\" PlayStation 5 de streamer enquanto fazia transmisso ao vivo - IGN Brasil",
+  "snippet_de": "... Mudança climática ainda não está funcionando em GTA 6 mesmo após atualização? Essa dica pode ajudar a dar gatilho na chuva e tempestades. Em pouco ...",
+  "published": "2026-11-26T16:52:04+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Mudança Climática\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "a74f719ff1005d6d",
+  "stream": "wider",
+  "url": "https://br.ign.com/grand-theft-auto-vi/157961/gta-6-essas-3-coisas-desaparecem-para-sempre-apos-o-final-do-capitulo-2",
+  "source": "br.ign.com",
+  "title_de": "GTA 6: Essas 3 coisas desaparecem para sempre após o final do Capítulo 2 - IGN Brasil",
+  "snippet_de": "... Mudança climática ainda não está funcionando em GTA 6 mesmo após atualização? Essa dica pode ajudar a dar gatilho na chuva e tempestades. Embora o ...",
+  "published": "2026-11-26T15:57:47+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Mudança Climática\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "100d9b15856d220d",
+  "stream": "wider",
+  "url": "https://br.ign.com/grand-theft-auto-vi/157968/spotify-revela-aumento-significativo-nas-reproducoes-das-musicas-que-aparecem-em-gta-6",
+  "source": "br.ign.com",
+  "title_de": "Spotify revela aumento significativo nas reproduções das músicas que aparecem em GTA 6",
+  "snippet_de": "... Mudança climática ainda não está funcionando em GTA 6 mesmo após atualização? Essa dica pode ajudar a dar gatilho na chuva e tempestades. O Spotify ...",
+  "published": "2026-11-26T15:23:24+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Mudança Climática\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "f087d891c55c8734",
+  "stream": "wider",
+  "url": "https://br.ign.com/grand-theft-auto-vi/157964/gta-6-como-conseguir-a-danca-especial-da-vicki-no-clube-de-striptease-voce-so-tem-uma-chance",
+  "source": "br.ign.com",
+  "title_de": "GTA 6: Como conseguir a dança especial da Vicki no clube de striptease? Você só tem uma chance!",
+  "snippet_de": "... Mudança climática ainda não está funcionando em GTA 6 mesmo após atualização? Essa dica pode ajudar a dar gatilho na chuva e tempestades. Em GTA 6 ...",
+  "published": "2026-11-26T15:23:21+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Mudança Climática\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "23f1bcca74468704",
+  "stream": "wider",
+  "url": "https://br.ign.com/grand-theft-auto-vi/157978/mudanca-climatica-ainda-nao-esta-funcionando-em-gta-6-mesmo-apos-atualizacao-essa-dica-pode-ajudar-a",
+  "source": "br.ign.com",
+  "title_de": "Mudança climática ainda não está funcionando em GTA 6 mesmo após atualização? Essa ...",
+  "snippet_de": "Mudança climática ainda não está funcionando em GTA 6 mesmo após atualização? Essa dica pode ajudar a dar gatilho na chuva e tempestades · Tática pode ...",
+  "published": "2026-11-26T15:23:18+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Mudança Climática\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "53cdb895cdc6017f",
+  "stream": "wider",
+  "url": "https://br.ign.com/grand-theft-auto-vi/157972/gta-6-nao-permite-que-voce-repita-as-missoes-e-a-rockstar-tem-um-bom-motivo-para-isso",
+  "source": "br.ign.com",
+  "title_de": "GTA 6 não permite que você repita as missões, e a Rockstar tem um bom motivo para isso",
+  "snippet_de": "... Mudança climática ainda não está funcionando em GTA 6 mesmo após atualização? Essa dica pode ajudar a dar gatilho na chuva e tempestades · GTA 6 ...",
+  "published": "2026-11-26T15:23:15+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Mudança Climática\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "9743c82072559c37",
+  "stream": "wider",
+  "url": "https://br.ign.com/grand-theft-auto-vi/157953/final-do-capitulo-1-de-gta-6-veja-a-lista-do-que-fazer-antes-da-ultima-missao-para-nao-deixar-nada-p",
+  "source": "br.ign.com",
+  "title_de": "Final do Capítulo 1 de GTA 6: veja a lista do que fazer antes da última missão para não ...",
+  "snippet_de": "... Mudança climática ainda não está funcionando em GTA 6 mesmo após atualização? Essa dica pode ajudar a dar gatilho na chuva e tempestades. O fim do ...",
+  "published": "2026-11-26T15:22:59+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Mudança Climática\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "09990e6733df0858",
+  "stream": "wider",
+  "url": "https://www.estadao.com.br/eldorado/marina-silva-diz-que-cop-regrediu-e-sinaliza-colaboracao-com-lula-4/",
+  "source": "estadao.com.br",
+  "title_de": "Marina Silva diz que COP “regrediu” e sinaliza colaboração com Lula 4 - Estadão",
+  "snippet_de": "Entre em contato. Tudo Sobre. Marina Silva · COP 31 [Conferência das Nações Unidas Sobre Mudança Climática] · Rádio Eldorado. Notícias mais recentes.",
+  "published": "2026-11-26T15:16:04+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Mudança Climática\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "956c747a0ae41b56",
+  "stream": "wider",
+  "url": "https://br.ign.com/grand-theft-auto-vi/157954/a-melhor-mecanica-de-gta-6-foi-criada-para-gta-vice-city-revela-ex-dev-da-rockstar",
+  "source": "br.ign.com",
+  "title_de": "A melhor mecânica de GTA 6 foi criada para GTA: Vice City, revela ex-dev da Rockstar",
+  "snippet_de": "... Mudança climática ainda não está funcionando em GTA 6 mesmo após atualização? Essa dica pode ajudar a dar gatilho na chuva e tempestades. A ...",
+  "published": "2026-11-26T15:11:55+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Mudança Climática\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "a882cd3f280ed541",
+  "stream": "wider",
+  "url": "https://www1.folha.uol.com.br/colunas/papo-de-responsa/2026/11/cop31-fracassa-em-consenso-mas-promove-conexoes-para-a-acao.shtml",
+  "source": "www1.folha.uol.com.br",
+  "title_de": "COP31 impulsiona filantropia climática e ação local - 26/11/2026 - Papo de Responsa",
+  "snippet_de": "Leia tudo sobre o tema e siga: Austrália · Chuva · cop31 · meio ambiente · mudança climática · onu · Rio Grande do Sul · turquia ...",
+  "published": "2026-11-26T14:48:11+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Mudança Climática\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "701446fca355bb48",
+  "stream": "wider",
+  "url": "https://www.sonhoseguro.com.br/2026/11/desastres-naturais-provocam-us-385-bi-em-perdas-economicas-no-brasil-ate-setembro-aponta-aon/",
+  "source": "sonhoseguro.com.br",
+  "title_de": "Desastres naturais provocam US$ 3,85 bi em perdas econômicas no Brasil até setembro ...",
+  "snippet_de": "mudança climática · seguradoras · seguros · WhatsApp · Linkedin · Facebook · Twitter · Telegram. Artigo anterior. CNseg lança taxonomia sustentável ...",
+  "published": "2026-11-26T13:32:28+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Mudança Climática\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "ab785fc6ba12feb7",
+  "stream": "wider",
+  "url": "https://www1.folha.uol.com.br/colunas/claudiobernardes/2026/11/cidades-de-baixo-carbono-para-mitigar-efeitos-de-mudancas-climaticas.shtml",
+  "source": "www1.folha.uol.com.br",
+  "title_de": "Cidades de baixo carbono para mitigar efeitos de mudanças climáticas - Folha - UOL",
+  "snippet_de": "Leia tudo sobre o tema e siga: mudança climática · sustentabilidade ...",
+  "published": "2026-11-26T12:34:06+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Mudança Climática\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "17a5d48bb3ce717f",
+  "stream": "wider",
+  "url": "https://blogdomarioflavio.com.br/lucielle-laurentino-participa-de-debates-sobre-financiamento-climatico-em-brasilia/",
+  "source": "blogdomarioflavio.com.br",
+  "title_de": "Lucielle Laurentino participa de debates sobre financiamento climático em Brasília",
+  "snippet_de": "Antes, a gestora representou o município em discussões da 31ª Conferência das Nações Unidas sobre Mudança Climática (COP31), na Turquia. “Mais do ...",
+  "published": "2026-11-26T08:46:02+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Mudança Climática\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "36c07fa61c132402",
+  "stream": "wider",
+  "url": "https://www.jornalocandeeiro.com.br/noticia-55305-usodainteligenciaartificialnoapoioasforcasdesegurancaedebatidonos20anosdogaecoemsalvador",
+  "source": "jornalocandeeiro.com.br",
+  "title_de": "Uso da inteligência artificial no apoio às forças de segurança é debatido nos 20 anos do ...",
+  "snippet_de": "O uso da inteligência artificial no apoio às forças de segurança foi um dos temas do evento que celebrou os 20 anos do Grupo de Atuação Especial ...",
+  "published": "2026-11-26T22:10:59+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Segurança\"(Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "ba7a292c0cc82172",
+  "stream": "wider",
+  "url": "https://jrsportal.com.br/artigo-jrs/da-inteligencia-artificial-ao-crescimento-de-50-nas-emissoes-de-vida-os-numeros-do-xiv-workshop-gente-seguradora/",
+  "source": "jrsportal.com.br",
+  "title_de": "Da inteligência artificial ao crescimento de 50% nas emissões de vida: os números do XIV ...",
+  "snippet_de": "Da inteligência artificial ao crescimento de 50% nas emissões de vida ... Pagamento por cartão de crédito, segurança de dados e automação de ...",
+  "published": "2026-11-26T21:16:05+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Segurança\"(Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "c8d71b1f034e77c5",
+  "stream": "wider",
+  "url": "https://msemfoco.com.br/noticia/5976/governo-de-ms-defende-uso-da-ia-com-seguranca-na-gestao-publica-e-educacao",
+  "source": "msemfoco.com.br",
+  "title_de": "Governo de MS defende uso da IA com segurança na gestão pública e educação",
+  "snippet_de": "A necessidade de garantir segurança, transparência e responsabilidade humana na utilização da inteligência artificial (IA) na gestão pública e na ...",
+  "published": "2026-11-26T20:48:17+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Segurança\"(Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "f167fd2492a3728f",
+  "stream": "wider",
+  "url": "https://www.olhardireto.com.br/agro-e-negocios/noticias/cuiaba-recebe-evento-sobre-infraestrutura-inteligente-conectividade-e-seguranca-digital",
+  "source": "olhardireto.com.br",
+  "title_de": "Cuiabá recebe evento sobre infraestrutura inteligente, conectividade e segurança digital",
+  "snippet_de": "A Check Point abordou ferramentas de segurança, com destaque para firewall, proteção de endpoints e governança no uso da inteligência artificial.",
+  "published": "2026-11-26T19:56:29+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Segurança\"(Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "636cb2ecc89e3c80",
+  "stream": "wider",
+  "url": "https://www.gazetasp.com.br/brasil/samsung-amplia-distribuicao-do-android-17-para-celulares-galaxy-incluindo-modelos-intermediarios-com-novidades-em-inteligencia-artificial-e-seguranca/",
+  "source": "gazetasp.com.br",
+  "title_de": "Samsung amplia distribuição do Android 17 para celulares Galaxy, incluindo modelos ...",
+  "snippet_de": "A novidade traz melhorias de inteligência artificial, segurança, privacidade e personalização. Entretanto, nem todos os usuários conseguem instalar o ...",
+  "published": "2026-11-26T19:45:01+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Segurança\"(Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "1aaa0a78f05ce8b1",
+  "stream": "wider",
+  "url": "https://www.ce.gov.br/egp/2026/11/26/egpce-capacita-servidores-municipais-em-seguranca-da-informacao-e-uso-seguro-das-tecnologias/",
+  "source": "ce.gov.br",
+  "title_de": "EGPCE capacita servidores municipais em segurança da informação e uso seguro das tecnologias",
+  "snippet_de": "... Segurança da informação no setor público: uso seguro das tecnologias ... EGPCE realiza formação em inteligência artificial com foco nos ...",
+  "published": "2026-11-26T19:19:24+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Segurança\"(Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "e3a699041184be36",
+  "stream": "wider",
+  "url": "https://atarde.com.br/brasil/ia-brasileira-ajuda-policia-a-realizar-mais-de-700-prisoes-1410715",
+  "source": "atarde.com.br",
+  "title_de": "Inteligência artificial brasileira ajuda polícia a realizar mais de 700 prisões - A TARDE",
+  "snippet_de": "Perseguida a caminho da Delegacia da Mulher · Inteligência artificial a serviço da proteção das mulheres · Tecnologia, segurança e privacidade.",
+  "published": "2026-11-26T19:04:05+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Segurança\"(Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "c200b16aa00fc446",
+  "stream": "wider",
+  "url": "https://jornalmetropolitan.com.br/barragem-programa-monitoramento-barragens-ia-alego/",
+  "source": "jornalmetropolitan.com.br",
+  "title_de": "Alego aprova programa com inteligência artificial para monitoramento de barragens",
+  "snippet_de": "Tecnologia avançada e inteligência artificial na fiscalização. O texto aprovado altera modificações anteriores na legislação de segurança de represas ...",
+  "published": "2026-11-26T19:03:14+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Segurança\"(Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "951ad0c4ecbd65fb",
+  "stream": "wider",
+  "url": "https://www.defensoria.to.def.br/noticias/letramento-tecnologico-seguranca-e-normatizacao-da-i-a-e-tema-de-seminario-realizado-na-dpe-to",
+  "source": "defensoria.to.def.br",
+  "title_de": "Letramento tecnológico, segurança e normatização da I.A é tema de seminário realizado na DPE-TO",
+  "snippet_de": "Letramento tecnológico, segurança e normatização da I.A é tema de seminário realizado na DPE-TO. O “Seminário Inteligência Artificial e ...",
+  "published": "2026-11-26T18:50:45+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Segurança\"(Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "5381bf3b14c6ec16",
+  "stream": "wider",
+  "url": "https://www.jornalopcao.com.br/politica/programa-de-monitoramento-de-barragens-com-ia-e-aprovado-em-definitivo-na-alego-brumadinho-e-o-que-nos-queremos-evitar-diz-gomide-900230/",
+  "source": "jornalopcao.com.br",
+  "title_de": "Programa de monitoramento de barragens com IA é aprovado em definitivo na Alego - Jornal Opção",
+  "snippet_de": "... Segurança e Eficiência de Barragens. O texto aprovado determina a implementação de tecnologias avançadas, inclusive inteligência artificial, para ...",
+  "published": "2026-11-26T18:43:36+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Segurança\"(Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "d89b077bab9e7b6a",
+  "stream": "wider",
+  "url": "https://convergenciadigital.com.br/governo/parlamentares-querem-ciberseguranca-no-pl-do-marco-legal-da-inteligencia-artificial/",
+  "source": "convergenciadigital.com.br",
+  "title_de": "Parlamentares querem cibersegurança no PL do Marco Legal da Inteligência Artificial",
+  "snippet_de": "GovernoInovaçãoSegurança. Parlamentares querem cibersegurança no PL do Marco Legal da Inteligência Artificial. Relator do PL, deputado Aguinaldo ...",
+  "published": "2026-11-26T18:34:44+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Segurança\"(Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "7f274e97bb211996",
+  "stream": "wider",
+  "url": "https://www12.senado.leg.br/radio/1/noticia/2026/11/26/audiencia-vai-discutir-inteligencia-artificial-e-novos-riscos-ciberneticos",
+  "source": "www12.senado.leg.br",
+  "title_de": "Audiência vai discutir inteligência artificial e novos riscos cibernéticos - Senado Federal",
+  "snippet_de": "... inteligência artificial de fronteira (REQ 102/2026 - CCT). O debate ... segurança digital. O requerimento, lido pelo senador Hamilton Mourão ...",
+  "published": "2026-11-26T18:11:23+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Segurança\"(Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "54d532049fb6097a",
+  "stream": "wider",
+  "url": "https://www.estadao.com.br/tecmundo/ciberseguranca/ias-permitem-que-cibercriminosos-ataquem-varios-paises-ao-mesmo-tempo/",
+  "source": "estadao.com.br",
+  "title_de": "IAs permitem que cibercriminosos ataquem vários países ao mesmo tempo - Estadão",
+  "snippet_de": "Relatório revela que uso de IA e credenciais roubadas amplia alcance de operações cibernéticas individuais e desafia segurança corporativa.",
+  "published": "2026-11-26T17:42:21+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Segurança\"(Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "6735637279207cf7",
+  "stream": "wider",
+  "url": "https://www.es.senac.br/noticias/com-foco-na-inclusao-digital-senac-es-leva-curso-pratico-sobre-seguranca-online-e-inteligencia-artificial-para-publico-50-em-itaguacu-e-santa-maria-de-jetiba-1310",
+  "source": "es.senac.br",
+  "title_de": "Com foco na inclusão digital, Senac-ES leva curso prático sobre segurança online e ...",
+  "snippet_de": "Esse é o objetivo do curso Conectados com Segurança: Smartphone, Internet e Inteligência Artificial na Prática, promovido pelo Senac de Santa Teresa, ...",
+  "published": "2026-11-26T17:22:45+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Segurança\"(Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "ce7f67c563bdc370",
+  "stream": "wider",
+  "url": "https://www.segs.com.br/seguros/459997-seguro-cibernetico-ganha-importancia-diante-do-avanco-dos-ataques-contra-empresas",
+  "source": "segs.com.br",
+  "title_de": "Seguro cibernético ganha importância diante do avanço dos ataques contra empresas",
+  "snippet_de": "... inteligência artificial. A maior sofisticação dessas ameaças aumenta a preocupação com a segurança dos dados, a continuidade das operações e os ...",
+  "published": "2026-11-26T16:58:53+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Segurança\"(Portuguese)",
+   "Brazil and \"Inteligência Artificial\" and \"Risco\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "752cea6bd6b3b7fc",
+  "stream": "wider",
+  "url": "https://rrmais.com.br/noticia/noticias/internacional/foz-do-iguacu-tera-130-cameras-com-inteligencia-artificial-para-reforcar-seguranca-na-fronteira",
+  "source": "rrmais.com.br",
+  "title_de": "Foz do Iguaçu terá 130 câmeras com inteligência artificial para reforçar segurança na fronteira",
+  "snippet_de": "... inteligência artificial para segurança pública. O projeto-piloto prevê a instalação de 130 câmeras de monitoramento em diferentes pontos da cidade ...",
+  "published": "2026-11-26T16:31:27+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Segurança\"(Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "5a21bfc366c8fa09",
+  "stream": "wider",
+  "url": "https://www.bemparana.com.br/noticias/parana/inteligencia-artificial-seguranca-fronteira/",
+  "source": "bemparana.com.br",
+  "title_de": "Inteligência Artificial será adotada na segurança da fronteira no Paraná",
+  "snippet_de": "A ideia é criar em conjunto com as forças de segurança uma tecnologia para apoiar quem trabalha todos os dias nessa frente. A inteligência artificial ...",
+  "published": "2026-11-26T16:03:58+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Segurança\"(Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "facd34ef2875a823",
+  "stream": "wider",
+  "url": "https://www.oabsp.org.br/jornaldaadvocacia/26-11-26-1241-oab-sp-divulga-nota-tecnica-sobre-vazamentos-no-sistema-smart-sampa",
+  "source": "oabsp.org.br",
+  "title_de": "OAB SP divulga nota técnica sobre vazamentos no sistema Smart Sampa",
+  "snippet_de": "Documento das Comissões de Direitos Humanos e de Privacidade, Proteção de Dados e Inteligência Artificial aponta riscos à segurança da população e ...",
+  "published": "2026-11-26T15:54:18+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Segurança\"(Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "89b0a5dfbaeb6794",
+  "stream": "wider",
+  "url": "https://planejamento.rs.gov.br/procergs-security-week-2026-saiba-todos-os-detalhes-do-evento-6b084c3957aaf",
+  "source": "planejamento.rs.gov.br",
+  "title_de": "Procergs promove semana de debates sobre segurança digital entre 30/11 e 4/12",
+  "snippet_de": "... segurança digital entre 30/11 e 4/12. Programação inclui palestras sobre proteção de dados, inteligência artificial e cibersegurança. Publicação: 26 ...",
+  "published": "2026-11-26T15:30:06+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Segurança\"(Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "d1a9319f407c850c",
+  "stream": "wider",
+  "url": "https://crtsp.gov.br/crt-sp-enfatiza-competencias-e-atribuicoes-dos-tecnicos-industriais-no-conabom-2026/",
+  "source": "crtsp.gov.br",
+  "title_de": "CRT-SP enfatiza competências e atribuições dos Técnicos Industriais no CONABOM 2026",
+  "snippet_de": "... inteligência artificial, gestão de emergências, inundações e segurança em veículos elétricos. Nesta quinta-feira (26), a programação inclui uma ...",
+  "published": "2026-11-26T15:21:49+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Segurança\"(Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "461aa9f4741cedf4",
+  "stream": "wider",
+  "url": "https://www.estadao.com.br/tecmundo/ciberseguranca/falha-da-microsoft-expoe-segredos-de-empresas-de-energia-da-europa/",
+  "source": "estadao.com.br",
+  "title_de": "Falha da Microsoft expõe segredos de empresas de energia da Europa - Estadão",
+  "snippet_de": "... risco. Em comunicado obtido pelo portal especializado The Register, a ... Impacto alerta para inteligência artificial. As autoridades ...",
+  "published": "2026-11-26T21:49:14+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Risco\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "68f04a2c411a7571",
+  "stream": "wider",
+  "url": "https://www.infomoney.com.br/mercados/ceo-da-nelogica-explica-como-inteligencia-artificial-esta-transformando-day-trade/",
+  "source": "infomoney.com.br",
+  "title_de": "CEO da Nelogica explica como a inteligência artificial está transformando o day trade",
+  "snippet_de": "“A inteligência artificial deve acelerar esse movimento. Ao mesmo tempo, conhecimento de mercado, disciplina e gestão de risco continuarão sendo ...",
+  "published": "2026-11-26T20:46:52+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Risco\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "76f44fb49ae1a39c",
+  "stream": "wider",
+  "url": "https://itforum.com.br/ia-reduz-entrada-jovens-profissoes-anthropic/",
+  "source": "itforum.com.br",
+  "title_de": "IA reduz entrada de jovens em profissões mais expostas, aponta estudo da Anthropic",
+  "snippet_de": "... risco potencial de substituição de tarefas por inteligência artificial. As melhores notícias de tecnologia B2B. Acompanhe todas as novidades ...",
+  "published": "2026-11-26T20:20:56+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Risco\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "90682831555dae8e",
+  "stream": "wider",
+  "url": "https://timesbrasil.com.br/brasil/golpes-com-ia-e-pix-ampliam-riscos-para-consumidores-na-black-friday-veja-como-se-proteger/",
+  "source": "timesbrasil.com.br",
+  "title_de": "Golpes com IA e Pix ampliam riscos para consumidores na Black Friday - Times Brasil",
+  "snippet_de": "A exposição ao risco de fraudes com inteligência artificial subiu de 26%, em 2025, para 32%, em 2026, segundo levantamento do Reclame Aqui. As ...",
+  "published": "2026-11-26T20:17:15+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Risco\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "e1757f8b48d08574",
+  "stream": "wider",
+  "url": "https://imasters.com.br/noticia/ia-generativa-sai-da-prova-de-conceito-e-passa-a-ser-cobrada-por-roi-no-brasil-aponta-estudo",
+  "source": "imasters.com.br",
+  "title_de": "IA generativa sai da prova de conceito e passa a ser cobrada por ROI no Brasil, aponta estudo",
+  "snippet_de": "... criam instituto para levar IA às PMEs. 10/fev/26. AI · Inteligência artificial na área de programação: risco aos programadores? 02/fev/26.. ▷ ...",
+  "published": "2026-11-26T19:46:02+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Risco\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "1a81bfc1fc3687c1",
+  "stream": "wider",
+  "url": "https://imasters.com.br/noticia/quedas-de-chatgpt-claude-e-microsoft-expoem-o-risco-de-depender-de-ia-externa",
+  "source": "imasters.com.br",
+  "title_de": "Quedas de ChatGPT, Claude e Microsoft expõem o risco de depender de IA externa",
+  "snippet_de": "Quedas de ChatGPT, Claude e Microsoft expõem o risco de depender de IA externa ... inteligência artificial↳Inteligência artificial440 conteúdosUX e IA ...",
+  "published": "2026-11-26T19:46:01+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Risco\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "fae97a2a04a44273",
+  "stream": "wider",
+  "url": "https://www.administradores.com.br/artigos/o-maior-risco-da-ia-pode-ser-a-velocidade-com-que-estamos-construindo-a",
+  "source": "administradores.com.br",
+  "title_de": "O maior risco da IA pode ser a velocidade com que estamos construindo-a",
+  "snippet_de": "O maior risco da IA pode ser a velocidade com que estamos construindo-a ... Com a inteligência artificial, há uma diferença importante: a própria ...",
+  "published": "2026-11-26T19:32:57+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Risco\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "1a7abbdd76e5ad36",
+  "stream": "wider",
+  "url": "https://algomais.com/fabio-menezes-alerta-para-o-risco-de-uma-bolha-da-inteligencia-artificial/",
+  "source": "algomais.com",
+  "title_de": "Fábio Menezes Alerta Para O Risco De Uma Bolha Da Inteligência Artificial",
+  "snippet_de": "O risco de uma bolha financeira no mercado de inteligência artificial foi um dos principais alertas do consultor Fábio Menezes durante a 28ª ...",
+  "published": "2026-11-26T17:46:38+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Risco\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "7277fc5df13acc4a",
+  "stream": "wider",
+  "url": "https://finsidersbrasil.com.br/credito-digital/credito-digital-para-pmes-gerente-perde-espaco/",
+  "source": "finsidersbrasil.com.br",
+  "title_de": "Crédito para empresas começa a deixar o gerente de lado - Finsiders",
+  "snippet_de": "Inteligência artificial e machine learning aprimoram a avaliação de risco e identificam perfis fora dos critérios tradicionais. Para ...",
+  "published": "2026-11-26T16:33:57+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Risco\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "2b419b53a70c1487",
+  "stream": "wider",
+  "url": "https://www.campograndenews.com.br/meio-ambiente/ia-vai-alertar-campo-grandenses-sobre-riscos-de-alagamentos",
+  "source": "campograndenews.com.br",
+  "title_de": "IA vai alertar campo-grandenses sobre riscos de alagamentos - Campo Grande News",
+  "snippet_de": "A prefeitura de Campo Grande desenvolve uma ferramenta de inteligência artificial que, a partir de 2027, enviará alertas de risco de alagamentos pelo ...",
+  "published": "2026-11-26T14:44:09+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Risco\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "945aa892d8376534",
+  "stream": "wider",
+  "url": "https://revistaapolice.com.br/2026/11/77-dos-lideres-de-seguros-veem-risco-competitivo-sem-ia/",
+  "source": "revistaapolice.com.br",
+  "title_de": "77% dos líderes de seguros veem risco competitivo sem IA - Revista Apólice",
+  "snippet_de": "77% dos líderes de seguros veem risco competitivo sem IA. Pesquisa da KPMG aponta que metade do orçamento destinado à inteligência artificial está ...",
+  "published": "2026-11-26T14:23:07+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Risco\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "0ebcbfe391ea5ff2",
+  "stream": "wider",
+  "url": "https://itforum.com.br/artigos/o-ponto-cego-investimentos-ciberseguranca/?amp",
+  "source": "itforum.com.br",
+  "title_de": "O ponto cego dos investimentos em cibersegurança - IT Forum",
+  "snippet_de": "O risco é especialmente preocupante porque uma empresa pode apresentar indicadores positivos de backup e, ainda assim, desconhecer falhas que ...",
+  "published": "2026-11-26T13:27:00+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Risco\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "18fe1cbb752e60fe",
+  "stream": "wider",
+  "url": "https://www.campograndenews.com.br/educacao-e-tecnologia/uso-de-ia-por-alunos-desafia-escolas-a-ensinar-pensamento-critico-diz-educador",
+  "source": "campograndenews.com.br",
+  "title_de": "Uso de IA por alunos desafia escolas a ensinar pensamento crítico, diz educador",
+  "snippet_de": "Para Paulo, o risco é que a inteligência artificial ... risco de a inteligência artificial ser utilizada para padronizar excessivamente o trabalho dos ...",
+  "published": "2026-11-26T12:04:04+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Risco\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "b1650bc7d2e30941",
+  "stream": "wider",
+  "url": "https://valor.globo.com/google/amp/empresas/noticia/2026/11/26/um-risco-chamado-jensen-huang.ghtml",
+  "source": "valor.globo.com",
+  "title_de": "Um risco chamado Jensen Huang | Empresas - Valor Econômico",
+  "snippet_de": "Marketing Inteligência artificial Energia Infraestrutura. Um risco chamado Jensen Huang. O executivo e a Nvidia estão sendo investigados em várias ...",
+  "published": "2026-11-26T08:05:54+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Risco\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "d959d9ce041e3934",
+  "stream": "wider",
+  "url": "https://economia.uol.com.br/noticias/estadao-conteudo/2026/11/25/bolsas-de-ny-fecham-sem-direcao-unica-pressionadas-por-setor-de-tecnologia-e-avaliando-tarifas.htm",
+  "source": "economia.uol.com.br",
+  "title_de": "Bolsas de NY fecham sem direção única pressionadas por setor de tecnologia e avaliando tarifas",
+  "snippet_de": "... risco que penalizava principalmente às ações ligadas à inteligência artificial. O mercado avalia indicadores dos Estados Unidos, assim como a.",
+  "published": "2026-11-26T00:33:43+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Risco\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "f90c41e11ba61232",
+  "stream": "wider",
+  "url": "https://agitabrasilia.com/inteligencia-artificial-transparencia-e-pix-pautam-debates-sobre-o-futuro-da-gestao-publica-no-df/",
+  "source": "agitabrasilia.com",
+  "title_de": "Gestão pública no DF debate inteligência artificial, Pix e transparência - Agita Brasília",
+  "snippet_de": "Os riscos do uso excessivo da IA. O avanço da inteligência artificial também motivou alertas importantes sobre o risco de esvaziamento cognitivo entre ...",
+  "published": "2026-11-26T00:22:06+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Risco\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "eeb26a038b081833",
+  "stream": "wider",
+  "url": "https://www.suno.com.br/noticias/nvidia-nvdc34-rating-sp-risco-rebaixamento/",
+  "source": "suno.com.br",
+  "title_de": "Nvidia (NVDC34) pode ser rebaixada pela S&P - Suno Research",
+  "snippet_de": "... risco. Entre os pontos de preocupação estão a ausência de um ... inteligência artificial. A avaliação levou a S&P a revisar de “positiva ...",
+  "published": "2026-11-26T00:14:13+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Risco\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "d03f5916be0b0776",
+  "stream": "wider",
+  "url": "https://jornalggn.com.br/opiniao/a-cupula-nuclear-de-shenzhen-por-vijay-prashad/",
+  "source": "jornalggn.com.br",
+  "title_de": "A Cúpula nuclear de Shenzhen, por Vijay Prashad - Jornal GGN",
+  "snippet_de": "Os demais países detentores de armas nucleares (França, Índia, Israel, Coreia do Norte, Paquistão e Reino Unido) não possuem arsenais da mesma ...",
+  "published": "2026-11-26T21:02:49+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "8628adda6b286445",
+  "stream": "wider",
+  "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/26/trump-diz-que-pediu-a-putin-fim-de-agressoes-militares-na-europa.ghtm",
+  "source": "noticias.uol.com.br",
+  "title_de": "Trump diz que pediu a Putin fim de agressões militares na Europa - UOL Notícias",
+  "snippet_de": "... guerra. Em entrevista ao podcast alemão MD Meets, Kushner afirmou que o presidente russo demonstrou moderação por não usar armas nucleares.",
+  "published": "2026-11-26T20:33:18+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "356a3bf9e145c9a6",
+  "stream": "wider",
+  "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/26/trump-diz-que-pediu-a-putin-fim-de-agressoes-militares-na-europa.amp.htm",
+  "source": "noticias.uol.com.br",
+  "title_de": "Trump diz que pediu a Putin fim de agressões militares na Europa - UOL Notícias",
+  "snippet_de": "Em entrevista ao podcast alemão MD Meets, Kushner afirmou que o presidente russo demonstrou moderação por não usar armas nucleares. Kushner disse ...",
+  "published": "2026-11-26T20:31:22+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "05dcde5b3b65e5c5",
+  "stream": "wider",
+  "url": "https://tmc.com.br/mundo/kim-jong-un-visita-instalacoes-nucleares-ignora-trump/",
+  "source": "tmc.com.br",
+  "title_de": "Kim Jong-un visita instalações nucleares e ignora novo encontro com Trump - TMC",
+  "snippet_de": "Expansão do arsenal. Durante a visita, Kim afirmou que a produção e a mobilização de armas nucleares serão aceleradas e expandidas de forma ...",
+  "published": "2026-11-26T20:27:10+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "387a050630e7449a",
+  "stream": "wider",
+  "url": "https://www.tribunadosertao.com.br/internacional/2026/11/26/1030969-zelenskyy-alerta-para-um-iminente-ataque-russo-de-grande-escala-a-rede-eletrica-da-ucrania",
+  "source": "tribunadosertao.com.br",
+  "title_de": "Zelenskyy alerta para um iminente ataque russo de grande escala à rede elétrica da Ucrânia.",
+  "snippet_de": "Putin “concordou em não usar armas nucleares, o que obviamente é algo muito importante, e ele nos garantiu que essa não é sua intenção”, disse Kushner ...",
+  "published": "2026-11-26T19:43:19+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "cbadbe060d97a108",
+  "stream": "wider",
+  "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-ter-pedido-que-putin-pare-com-agressao-militar-contra-a-europa/",
+  "source": "cnnbrasil.com.br",
+  "title_de": "Trump diz ter pedido que Putin pare com agressão militar contra a Europa | CNN Brasil",
+  "snippet_de": "Genro de Trump diz que Putin mostrou contenção ao não usar armas nucleares · Trump e chefe da Otan pedem que Rússia evite ampliar guerra na Ucrânia.",
+  "published": "2026-11-26T19:39:42+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "33acde921d77890b",
+  "stream": "wider",
+  "url": "https://www.tribunadoagreste.com.br/geral/2026/11/26/1030903-principais-noticias-do-mundo-na-tarde-de-hoje-26",
+  "source": "tribunadoagreste.com.br",
+  "title_de": "Principais notícias do mundo na tarde de hoje (26) - Tribuna do Agreste",
+  "snippet_de": "Destaques internacionais incluem declarações sobre armas nucleares e dívidas estaduais. Por Por Sputnik Brasil Publicado em 26/11/2026 às 15:31.",
+  "published": "2026-11-26T18:48:02+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "ccf027f4411de6d9",
+  "stream": "wider",
+  "url": "https://jornaldebrasilia.com.br/noticias/mundo/zelenski-diz-que-russia-prepara-nova-ofensiva-contra-infraestrutura-energetica-da-ucrania/",
+  "source": "jornaldebrasilia.com.br",
+  "title_de": "Zelenski diz que Rússia prepara nova ofensiva contra infraestrutura energética da Ucrânia",
+  "snippet_de": "... armas nucleares. Kushner, que atua como mediador nas negociações entre Rússia e Ucrânia ao lado do enviado Steve Witkoff, afirmou que, após longas ...",
+  "published": "2026-11-26T18:44:41+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "d7e81a33e22fb0d6",
+  "stream": "wider",
+  "url": "https://www.opovo.com.br/noticias/mundo/2026/11/26/zelenski-diz-que-russia-prepara-nova-ofensiva-contra-infraestrutura-energetica-da-ucrania.html",
+  "source": "opovo.com.br",
+  "title_de": "Zelenski diz que Rússia prepara nova ofensiva contra infraestrutura energética da Ucrânia",
+  "snippet_de": "... armas nucleares.Kushner, que atua como mediador nas negociações entre Rússia e Ucrânia ao lado do enviado Steve Witkoff, afirmou que, após longas ...",
+  "published": "2026-11-26T18:39:13+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "d3b20487936de73d",
+  "stream": "wider",
+  "url": "https://vitorianews.com.br/zelenski-diz-que-russia-prepara-nova-ofensiva-contra-infraestrutura-energetica-da-ucrania",
+  "source": "vitorianews.com.br",
+  "title_de": "Zelenski diz que Rússia prepara nova ofensiva contra infraestrutura energética da Ucrânia",
+  "snippet_de": "Putin \"concordou em não usar armas nucleares, o que obviamente é algo muito importante, e nos garantiu que essa não é sua intenção\", afirmou Kushner ...",
+  "published": "2026-11-26T18:35:25+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "2515c2e579eed8b6",
+  "stream": "wider",
+  "url": "https://www.ocafezinho.com/2026-11-26/chanceler-do-ira-acusa-israel-de-tentar-arrastar-os-eua-a-guerra/",
+  "source": "ocafezinho.com",
+  "title_de": "Chanceler do Irã acusa Israel de tentar arrastar os EUA à guerra - O Cafezinho",
+  "snippet_de": "O chanceler também lembrou que Israel se recusou a assinar qualquer convenção que proíba armas nucleares, químicas ou biológicas. Segundo Araghchi ...",
+  "published": "2026-11-26T17:55:29+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "c9b41aba72d5255b",
+  "stream": "wider",
+  "url": "https://www.tribunadosertao.com.br/geral/2026/11/26/1030844-moscou-nega-relatos-sobre-planos-da-russia-de-posicionar-armas-nucleares-no-espaco",
+  "source": "tribunadosertao.com.br",
+  "title_de": "Moscou nega relatos sobre planos da Rússia de posicionar armas nucleares no espaço",
+  "snippet_de": "... armas nucleares no espaço, segundo Maria Zakharova. - Foto: © telegram SputnikBrasil. Moscou nega relatos sobre planos da Rússia de posicionar ...",
+  "published": "2026-11-26T17:48:33+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "ac3c4a43784e5755",
+  "stream": "wider",
+  "url": "https://www.tribunadoagreste.com.br/geral/2026/11/26/1030845-russia-desmente-possibilidade-de-armas-nucleares-no-espaco",
+  "source": "tribunadoagreste.com.br",
+  "title_de": "Rússia desmente possibilidade de armas nucleares no espaço - Tribuna do Agreste",
+  "snippet_de": "Moscou nega relatos sobre planos da Rússia de posicionar armas nucleares no espaço. As insinuações da mídia ocidental sobre supostos planos da ...",
+  "published": "2026-11-26T17:48:24+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "59f1fa6813363154",
+  "stream": "wider",
+  "url": "https://veja.abril.com.br/mundo/kim-jong-un-promete-ampliar-arsenal-nuclear-em-visita-a-instalacoes-de-uranio-veja-fotos/",
+  "source": "veja.abril.com.br",
+  "title_de": "Kim Jong-un promete ampliar arsenal nuclear em visita a instalações de urânio; veja fotos",
+  "snippet_de": "“O setor de fabricação de armas nucleares deve prestar atenção ao uso de armas nucleares táticas para diferentes missões em múltiplos domínios ...",
+  "published": "2026-11-26T16:54:51+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "9d881cd60c6ad575",
+  "stream": "wider",
+  "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/26/zelensky-alerta-para-novo-ataque-russo-a-rede-eletrica-da-ucrania.amp.htm",
+  "source": "noticias.uol.com.br",
+  "title_de": "Zelensky alerta para novo ataque russo à rede elétrica da Ucrânia - UOL Notícias",
+  "snippet_de": "Ele afirmou acreditar que o presidente russo, Vladimir Putin, quer a paz e demonstrou \"moderação\" ao concordar em não usar armas nucleares. O ...",
+  "published": "2026-11-26T16:33:44+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "a374b2dcdfec0a30",
+  "stream": "wider",
+  "url": "https://www.n3news.com.br/2026/11/kim-jong-un-visita-usina-nuclear-e-quer-mais-armas",
+  "source": "n3news.com.br",
+  "title_de": "Kim Jong-un visita usina nuclear e quer mais armas | N3 News",
+  "snippet_de": "Durante a visita, Kim Jong-un defendeu acelerar e expandir \"sistematicamente\" a produção e mobilização de armas nucleares \"em múltiplos domínios ...",
+  "published": "2026-11-26T14:52:38+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "a02787b349ef5eef",
+  "stream": "wider",
+  "url": "https://www.gazetadopovo.com.br/mundo/genro-trump-chama-putin-moderado-grande-mestre-figura-historica/",
+  "source": "gazetadopovo.com.br",
+  "title_de": "Genro de Trump chama Putin de “moderado”, “grande mestre” e “figura histórica”",
+  "snippet_de": "“Até agora, Putin tem demonstrado moderação; ele concordou em não usar armas nucleares [na guerra], o que, obviamente, é algo muito importante, e ...",
+  "published": "2026-11-26T14:39:18+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "0846bcd66a801f6d",
+  "stream": "wider",
+  "url": "https://www.poder360.com.br/poder-internacional/status-nuclear-da-coreia-do-norte-e-inviolavel-diz-kim-jong-un/",
+  "source": "poder360.com.br",
+  "title_de": "Status nuclear da Coreia do Norte é “inviolável”, diz Kim Jong-un - Poder360",
+  "snippet_de": "... armas nucleares é “inviolável” e está garantido pela Constituição. Segundo a agência estatal KCNA, a declaração foi feita durante visita de ...",
+  "published": "2026-11-26T14:15:45+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "210e0de1c45d4e4a",
+  "stream": "wider",
+  "url": "https://bandnewstv.uol.com.br/geral/kim-jong-un-pede-ampliacao-de-armas-nucleares-e-defendeu-a-fabricacao-de-mais-armas-atomicas",
+  "source": "bandnewstv.uol.com.br",
+  "title_de": "Kim Jong-Un pede ampliação de armas nucleares e defendeu a fabricação de mais armas atômicas",
+  "snippet_de": "O presidente da Coreia do Norte, Kim Jong-un, pediu ampliação do emprego de armas nucleares táticas. A agência estatal divulgou nesta quinta-feira ...",
+  "published": "2026-11-26T14:11:13+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "edf3180d41e7b85d",
+  "stream": "wider",
+  "url": "https://cbn.globo.com/mundo/noticia/2026/11/26/putin-mostrou-moderacao-e-deixou-claro-que-nao-vai-usar-armas-nucleares-contra-ucrania-diz-genro-de-trump.ghtml",
+  "source": "cbn.globo.com",
+  "title_de": "Putin mostrou 'moderação' e deixou claro que não vai usar armas nucleares contra Ucrânia ... - CBN",
+  "snippet_de": "Putin e outros funcionários russos ameaçaram repetidamente a Ucrânia e a OTAN com armas nucleares. Em 1º de outubro, o ditador russo afirmou que a ...",
+  "published": "2026-11-26T14:08:10+00:00",
+  "first_seen": "2026-11-27T00:06:45+00:00",
+  "alerts": [
+   "Brazil and Armas Nucleares (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
   "id": "bdbaf705b7db18f8",
   "stream": "core",
   "url": "https://aisweb.decea.mil.br/download/?arquivo=f103c1ff-b7b5-4a01-b7dc88738ac018c1&amp;apikey=1559859051",
