@@ -1,5 +1,77 @@
 [
  {
+  "id": "7cbaaebb5368f499",
+  "stream": "wider",
+  "url": "https://en.clickpetroleoegas.com.br/brazils-national-monetary-council-cuts-climate-fund-interest-rates-from-65-to-3-for-energy-storage-projects-using-batteries-made-in-brazil-ama01/",
+  "source": "en.clickpetroleoegas.com.br",
+  "title_de": "Brazil's National Monetary Council cuts Climate Fund interest rates from 6.5% to 3% for ...",
+  "snippet_de": "Brazil's National Monetary Council (CMN) approved a cut in interest rates for financing from the National Climate Change Fund (Climate Fund) for ...",
+  "published": "2026-11-27T23:16:57+00:00",
+  "first_seen": "2026-11-28T01:28:19+00:00",
+  "alerts": [
+   "\"Brazil\" and \"climate change\""
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "5cfeadf58715c906",
+  "stream": "wider",
+  "url": "https://agenciapara.com.br/noticia/80830/ministro-da-assistencia-social-destaca-politicas-de-combate-a-fome-no-para",
+  "source": "agenciapara.com.br",
+  "title_de": "Ministro da Assistência Social destaca políticas de combate à fome no Pará",
+  "snippet_de": "O acesso à alimentação de qualidade, a preços acessíveis, e o fortalecimento das políticas públicas de segurança alimentar foram os destaques da ...",
+  "published": "2026-11-28T00:44:56+00:00",
+  "first_seen": "2026-11-28T01:28:19+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "9ffd05403e6f8f81",
+  "stream": "wider",
+  "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/27/nova-lei-garante-entrada-com-alimentos-proprios-para-pessoas-com-doenca-celiaca-em-eventos-de-uberlandia-veja-regras.ghtml",
+  "source": "g1.globo.com",
+  "title_de": "Doença celíaca: Uberlândia garante entrada com comida em eventos - G1",
+  "snippet_de": "... com doença celíaca levem alimentos próprios a eventos, exigindo laudo médico para assegurar a segurança alimentar.",
+  "published": "2026-11-27T20:45:30+00:00",
+  "first_seen": "2026-11-28T01:28:19+00:00",
+  "alerts": [
+   "Brazil and \"Segurança Alimentar\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "fb772488b10a9e8c",
+  "stream": "wider",
+  "url": "https://jornaldebrasilia.com.br/brasilia/reforma-tributaria-e-inteligencia-artificial-pautam-encontro-nacional-de-controladorias-no-df/",
+  "source": "jornaldebrasilia.com.br",
+  "title_de": "Reforma tributária e inteligência artificial pautam encontro nacional de controladorias no DF",
+  "snippet_de": "A aplicação de inteligência artificial em auditorias, investigações e avaliações de risco também esteve na pauta do encontro. As discussões ...",
+  "published": "2026-11-27T22:40:13+00:00",
+  "first_seen": "2026-11-28T01:28:19+00:00",
+  "alerts": [
+   "Brazil and \"Inteligência Artificial\" and \"Risco\" (Portuguese)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
   "id": "d311818b20529325",
   "stream": "core",
   "url": "https://www.lto.de/recht/hintergruende/h/bmi-erfundene-schutzluecke-informationsfreiheit-kritische-infrastruktur",
